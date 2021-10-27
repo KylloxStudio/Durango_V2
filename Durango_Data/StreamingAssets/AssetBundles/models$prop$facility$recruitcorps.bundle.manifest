@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 698769267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0cc20ebe81e3721c7fc28ea34f55d4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b0f6aa2339e7ce2d4ac70ccdbc3d643
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/recruitcorps/recruitcorps_base_set_03_a.prefab
+- Assets/Models/Prop/facility/recruitcorps/recruitcorps_base_set_02_a.prefab
+- Assets/Models/Prop/facility/recruitcorps/recruitcorps_base_set_01_a.prefab
+- Assets/Models/Prop/facility/recruitcorps/recruitcorps_base_set_02_b.prefab
+- Assets/Models/Prop/facility/recruitcorps/recruitcorps_base_set_01_b.prefab
+- Assets/Models/Prop/facility/recruitcorps/recruitcorps_base_set_03_b.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$scaffolding$model$materials$scaffolding_01_1x1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$recruitcorps$model$materials$recruitcorps_bonfire_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$recruitcorps$model$materials$recruitcorps_set_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$recruitcorps$model$materials$recruitcorps_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$recruitcorps$model$materials$recruitcorps_site_01.mat.bundle

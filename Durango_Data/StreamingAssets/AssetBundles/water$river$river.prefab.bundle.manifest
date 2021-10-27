@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 991874803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4040fcab5867904cc9448faf97ada9ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e59b3bbf3e2fe7a2a7457651b32b8eb5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ca750273e7a5a14fa07f64fb1bebfec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Water/River/River.prefab
+Dependencies: []

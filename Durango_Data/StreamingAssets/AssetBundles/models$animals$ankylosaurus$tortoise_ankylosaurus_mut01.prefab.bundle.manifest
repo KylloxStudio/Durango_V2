@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 4036149603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d378aa9f65771de89aa912da12259fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27e470aac8c14aaaa8ea4635a88679db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa957a004892b4f4d9591cae8a4ff094, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71cac92162d17584891cd66bb6c6d334, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11620234b0f1cab49a88df15703c6a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aba14494891a2bb46ae3254386418d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be8877c4f4ebfa749a1d4bb53f8a1d59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1c00a1525440f9439ec9978bdbc4226, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2801c0d6d0a7ff748993ab5848175d30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c29ca87fb44f7e40a4a1c0cbf37cf4a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecb292aba31e6dd4aac85a240d19e735, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e44d8ccd772e03b409a65df521e0311e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/Ankylosaurus/Tortoise_Ankylosaurus_mut01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_helmet$ankylosaurus$helmet_ankylosaurus.prefab.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_saddle$ankylosaurus$saddle_ankylosaurus.prefab.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$ankylosaurus$ankylosaurus_framework.asset.bundle

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1540012011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0606b55a073188b57ec5c4e8374a2e57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72655a551b3f243b39e2e261be47a40f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprite/common_stone/_ancora_pebble/Data/_ancora_pebble.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

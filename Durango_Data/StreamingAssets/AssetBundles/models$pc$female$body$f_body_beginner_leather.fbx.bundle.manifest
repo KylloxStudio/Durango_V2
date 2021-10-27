@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3073015526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ee89198872020ee3b3166c2ed4ad8e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f84b1edfdf1ac21393e8856b31bcead6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Body/f_body_beginner_leather.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_nude01-texture1.mat.bundle

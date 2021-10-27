@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3542410137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10098439d2c7279038a6cfd6f59533a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b35df77a63325e2f28942f1a01e457b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Head/f_head_special_chef_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke.mat.bundle

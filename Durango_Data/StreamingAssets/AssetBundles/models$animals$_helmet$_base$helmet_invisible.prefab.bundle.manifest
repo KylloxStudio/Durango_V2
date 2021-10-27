@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3827185213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6b7cbfcb3e1bc4ec30f2a962858e627
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a9d000c67bb3b371a8c4e0fe8b14a8f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_helmet/_base/helmet_invisible.prefab
+Dependencies: []

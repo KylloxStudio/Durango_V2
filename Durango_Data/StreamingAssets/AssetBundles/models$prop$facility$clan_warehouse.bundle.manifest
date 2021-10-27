@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3909830587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: faf00220f5d01a3951087989ea99901e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f49f05f36a566d50434f7d9f3fb347da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/clan_warehouse/clan_warehouse_03.prefab
+- Assets/Models/Prop/facility/clan_warehouse/clan_warehouse_02.prefab
+- Assets/Models/Prop/facility/clan_warehouse/clan_warehouse_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$clan_warehouse$model$materials$clan_warehouse_set_01.mat.bundle

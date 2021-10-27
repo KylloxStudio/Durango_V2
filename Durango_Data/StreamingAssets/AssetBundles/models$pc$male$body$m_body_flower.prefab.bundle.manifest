@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1567425263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27048b02f48e93c9321781f0b4b1165d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1b42a64015103e085f05ac3187a751d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Body/m_body_flower.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_flower.mat.bundle

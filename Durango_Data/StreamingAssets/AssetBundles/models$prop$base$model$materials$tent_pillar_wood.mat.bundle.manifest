@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1478968194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 380c0201729e404d55e10d91460de3cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/base/model/materials/tent_pillar_wood.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

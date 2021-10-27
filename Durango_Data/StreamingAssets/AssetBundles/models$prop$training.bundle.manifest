@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2201735459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 011896893a21afe9ffa1cd5259fc70fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fc9e1083c5df515c17b2d4e2a591e42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/training/dummy_01.prefab
+- Assets/Models/Prop/training/target_01.prefab
+- Assets/Models/Prop/training/target_dummy_01.prefab
+- Assets/Models/Prop/training/benchpress_01.prefab
+- Assets/Models/Prop/training/benchpress_01_traning.prefab
+- Assets/Models/Prop/training/boxingbag_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$training$model$materials$training_set_01.mat.bundle

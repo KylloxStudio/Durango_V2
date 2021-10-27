@@ -1,0 +1,139 @@
+ManifestFileVersion: 0
+CRC: 1001883860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14d22c7aa5ba91fa2df2d7d9e6d6fccb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37f0f70c005cef7b85e030a757e1de28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b46bd040afc0a7c458ec9e9dac73bb47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71cac92162d17584891cd66bb6c6d334, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9879542332f639943b2e9ac30970ea63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0beb8fe5ba7586943b8d39aa15f98dcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8a9256c562e90f459efee0b041e1075, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Ancora/NPC/F_NPC_Player_First.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Madman.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Cook_B.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Cook_G.prefab
+- Assets/Models/Ancora/NPC/bag06_ancora.prefab
+- Assets/Models/Ancora/NPC/bag04_ancora.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Cook_J.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Cook_H.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Overpass_A.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Overpass_A.prefab
+- Assets/Models/Ancora/NPC/bag02_ancora.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Worker_C.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Cook_I.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Cook_E.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Worker_A.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Worker_B.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Cook_D.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Search.prefab
+- Assets/Models/Ancora/NPC/bag05_ancora.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Homeless_A.prefab
+- Assets/Models/Ancora/NPC/bag03_ancora.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Cook_C.prefab
+- Assets/Models/Ancora/NPC/F_NPC_Player_Worker_D.prefab
+- Assets/Models/Ancora/NPC/bag01_ancora.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Worker_E.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Cook_A.prefab
+- Assets/Models/Ancora/NPC/M_NPC_Player_Cook_F.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$shared_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$_anim$f_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$_anim$m_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_engineer_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_farmer_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_hoody_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_house_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_officelook_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_school_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$head$f_head_chef_02.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$head$f_head_sunglass_01.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$beard$m_beard_large_castro.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_engineer_l2.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_engineer_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_farmer_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_hoody.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_house_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_nothing.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_officelook.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_officelook_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_school_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_soldier_torn.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$head$m_head_base1_02.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$head$m_head_safety_03.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$equipment$tool$social_diary.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$equipment$tool$tool_barbecue.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_ponytail-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_lady.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_braid.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_base-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$beard$materials$m_beard_castro.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_messy-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_sideshave.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_shortwave.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_bun.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_officelook.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_long_perm.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_house_torn.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_farmer_torn.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_longwave-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_shaven.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_officelook_torn.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_wavy.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_bald-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_afro.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_longwave.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_barcode.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_soldier_torn.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_wilson.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$ancora$npc$materials$bagsncart_ancora.mat.bundle

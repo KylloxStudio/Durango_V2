@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 560187523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be9982186da9c5235e810c86710a83c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cacf437c1be4d31e6376dd4e5b9c11e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8df9664566c0a56409c710054dcb7b9c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/CardNews/constructing_basic_1.asset
+Dependencies: []

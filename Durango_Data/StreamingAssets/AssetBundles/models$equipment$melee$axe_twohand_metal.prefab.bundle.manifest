@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3756600276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfad4d4d591135f354d33e9fc8c42a1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1b42a64015103e085f05ac3187a751d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Equipment/Melee/axe_twohand_metal.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$equipment$melee$axe_twohand_metal.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$equipment$melee$materials$axe_twohand_metal.mat.bundle

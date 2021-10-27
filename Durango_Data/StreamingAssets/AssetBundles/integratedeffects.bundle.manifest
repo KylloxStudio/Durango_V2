@@ -1,0 +1,141 @@
+ManifestFileVersion: 0
+CRC: 1810262511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be8a51a99e8ab9313921797b2e24970c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 690b7fbddea248cc80c40328b864451a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73ccb7b4d95d1e543afdf6492355498a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/IntegratedEffects/FX_BareHands_Miss.prefab
+- Assets/IntegratedEffects/FX_SmallBody_Hit.prefab
+- Assets/IntegratedEffects/FX_SmallTear_Hit.prefab
+- Assets/IntegratedEffects/FX_Dagger_Hit.prefab
+- Assets/IntegratedEffects/VO_Braquiosaurus_Die.prefab
+- Assets/IntegratedEffects/FX_Apatosaurus_02_tail.prefab
+- Assets/IntegratedEffects/VO_Stegosaurus_Flinch.prefab
+- Assets/IntegratedEffects/FX_Demolition_Hit.prefab
+- Assets/IntegratedEffects/FX_Arrow_Critical.prefab
+- Assets/IntegratedEffects/FX_Chainsaw_Blocked.prefab
+- Assets/IntegratedEffects/FX_Bomb_Miss.prefab
+- Assets/IntegratedEffects/FX_SmallTear_Miss.prefab
+- Assets/IntegratedEffects/Action_FallGround_L.prefab
+- Assets/IntegratedEffects/FX_BareHands_Blocked.prefab
+- Assets/IntegratedEffects/FX_Apatosaurus_03_tail2.prefab
+- Assets/IntegratedEffects/VO_Oviraptor_Die.prefab
+- Assets/IntegratedEffects/VO_Allo_Damage.prefab
+- Assets/IntegratedEffects/VO_Parasau_Flinch.prefab
+- Assets/IntegratedEffects/FX_Bomb_Blocked.prefab
+- Assets/IntegratedEffects/FS_M.prefab
+- Assets/IntegratedEffects/FX_LargeTear_Blocked.prefab
+- Assets/IntegratedEffects/FX_Dagger_Critical.prefab
+- Assets/IntegratedEffects/VO_Birdy_Idle_03.prefab
+- Assets/IntegratedEffects/BiomeJumpLanding.prefab
+- Assets/IntegratedEffects/VO_Direwolf_Flinch.prefab
+- Assets/IntegratedEffects/FX_Chainsaw_Critical.prefab
+- Assets/IntegratedEffects/FX_Arrow_Hit.prefab
+- Assets/IntegratedEffects/FX_Dagger_Miss.prefab
+- Assets/IntegratedEffects/FX_Arrow_Blocked.prefab
+- Assets/IntegratedEffects/VO_Coelo_Flinch.prefab
+- Assets/IntegratedEffects/VO_Oviraptor_Flinch.prefab
+- Assets/IntegratedEffects/BiomeSliding.prefab
+- Assets/IntegratedEffects/FX_BareHands_Critical.prefab
+- Assets/IntegratedEffects/FX_Blunt_Hit.prefab
+- Assets/IntegratedEffects/VO_Compso_Die.prefab
+- Assets/IntegratedEffects/VO_Coelo_Die.prefab
+- Assets/IntegratedEffects/FX_Apatosaurus_04_die.prefab
+- Assets/IntegratedEffects/VO_Saber_Flinch.prefab
+- Assets/IntegratedEffects/FX_LargeTear_Miss.prefab
+- Assets/IntegratedEffects/VO_Dog_Lick.prefab
+- Assets/IntegratedEffects/FX_LargeTear_Hit.prefab
+- Assets/IntegratedEffects/VO_Phenaco_Die.prefab
+- Assets/IntegratedEffects/Action_Gather_OneHand_High.prefab
+- Assets/IntegratedEffects/FX_SmallBody_Blocked.prefab
+- Assets/IntegratedEffects/FX_Dagger_Blocked.prefab
+- Assets/IntegratedEffects/VO_Saber_Walk.prefab
+- Assets/IntegratedEffects/FX_Stone_Critical.prefab
+- Assets/IntegratedEffects/FX_Apatosaurus_01_stomp.prefab
+- Assets/IntegratedEffects/FX_Arrow_Miss.prefab
+- Assets/IntegratedEffects/FX_Bomb_Hit.prefab
+- Assets/IntegratedEffects/VO_Birdy_Idle_02.prefab
+- Assets/IntegratedEffects/FX_Spear_Miss.prefab
+- Assets/IntegratedEffects/VO_Trex_Flinch.prefab
+- Assets/IntegratedEffects/VO_Raptor_Die.prefab
+- Assets/IntegratedEffects/FX_Blunt_Critical.prefab
+- Assets/IntegratedEffects/FX_Axe_Miss.prefab
+- Assets/IntegratedEffects/VO_Megalo_Die.prefab
+- Assets/IntegratedEffects/FX_Stone_Miss.prefab
+- Assets/IntegratedEffects/FX_SmallBody_Critical.prefab
+- Assets/IntegratedEffects/BiomeRake_R.prefab
+- Assets/IntegratedEffects/VO_Ornitho_Flinch.prefab
+- Assets/IntegratedEffects/FX_Spear_Critical.prefab
+- Assets/IntegratedEffects/FX_LargeBody_Critical.prefab
+- Assets/IntegratedEffects/VO_Birdy_Idle_01.prefab
+- Assets/IntegratedEffects/VO_Saber_Die.prefab
+- Assets/IntegratedEffects/FX_BareHands_Hit.prefab
+- Assets/IntegratedEffects/VO_Macrau_Die.prefab
+- Assets/IntegratedEffects/VO_Trex_Die.prefab
+- Assets/IntegratedEffects/BiomeFootstep.prefab
+- Assets/IntegratedEffects/FX_Sword_Critical.prefab
+- Assets/IntegratedEffects/FS_L.prefab
+- Assets/IntegratedEffects/FX_Chainsaw_Hit.prefab
+- Assets/IntegratedEffects/FX_SmallTear_Blocked.prefab
+- Assets/IntegratedEffects/FX_Sword_Blocked.prefab
+- Assets/IntegratedEffects/BiomeRake_Big.prefab
+- Assets/IntegratedEffects/FS_XXL.prefab
+- Assets/IntegratedEffects/FX_Stone_Hit.prefab
+- Assets/IntegratedEffects/FX_TurretBow_Shoot.prefab
+- Assets/IntegratedEffects/VO_Parasau_Die.prefab
+- Assets/IntegratedEffects/FX_Int_Building_Crash.prefab
+- Assets/IntegratedEffects/FX_Chainsaw_Miss.prefab
+- Assets/IntegratedEffects/VO_Braquiosaurus_Flinch.prefab
+- Assets/IntegratedEffects/FX_Stone_Blocked.prefab
+- Assets/IntegratedEffects/FX_Spear_Blocked.prefab
+- Assets/IntegratedEffects/VO_Phenaco_Flinch.prefab
+- Assets/IntegratedEffects/FX_SmallTear_Critical.prefab
+- Assets/IntegratedEffects/FX_SmallBody_Miss.prefab
+- Assets/IntegratedEffects/Action_Craft_Fire.prefab
+- Assets/IntegratedEffects/FS_XL.prefab
+- Assets/IntegratedEffects/FX_LargeBody_Hit.prefab
+- Assets/IntegratedEffects/FX_Paper_Hit.prefab
+- Assets/IntegratedEffects/FX_Spear_Hit.prefab
+- Assets/IntegratedEffects/FX_Blunt_Blocked.prefab
+- Assets/IntegratedEffects/FX_Sword_Miss.prefab
+- Assets/IntegratedEffects/VO_Tricera_Die.prefab
+- Assets/IntegratedEffects/FX_Sword_Hit.prefab
+- Assets/IntegratedEffects/VO_Ankylo_Flinch.prefab
+- Assets/IntegratedEffects/VO_Dog_Bark.prefab
+- Assets/IntegratedEffects/FX_Axe_Hit.prefab
+- Assets/IntegratedEffects/VO_Ankylo_Die.prefab
+- Assets/IntegratedEffects/Action_FallGround_M.prefab
+- Assets/IntegratedEffects/VO_Mammoth_Die.prefab
+- Assets/IntegratedEffects/BiomeRake_L.prefab
+- Assets/IntegratedEffects/FX_Axe_Critical.prefab
+- Assets/IntegratedEffects/VO_Raptor_Flinch.prefab
+- Assets/IntegratedEffects/VO_Dog_Gasp.prefab
+- Assets/IntegratedEffects/VO_Ornitho_Die.prefab
+- Assets/IntegratedEffects/FX_LargeTear_Critical.prefab
+- Assets/IntegratedEffects/FX_Blunt_Miss.prefab
+- Assets/IntegratedEffects/FX_Bomb_Critical.prefab
+- Assets/IntegratedEffects/VO_Tricera_Flinch.prefab
+- Assets/IntegratedEffects/VO_Direwolf_Die.prefab
+- Assets/IntegratedEffects/FX_LargeBody_Miss.prefab
+- Assets/IntegratedEffects/FX_Watermelon_Hit.prefab
+- Assets/IntegratedEffects/FX_LargeBody_Blocked.prefab
+- Assets/IntegratedEffects/FX_Axe_Blocked.prefab
+- Assets/IntegratedEffects/FX_Catapult_Hit.prefab
+- Assets/IntegratedEffects/VO_Stegosaurus_Die.prefab
+- Assets/IntegratedEffects/VO_Macrau_Flinch.prefab
+- Assets/IntegratedEffects/VO_Deer_Idle.prefab
+Dependencies: []

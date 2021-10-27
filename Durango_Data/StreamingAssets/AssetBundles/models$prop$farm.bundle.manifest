@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 4107512258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95e6135063f2a3e9cee29d1fc2dc2d63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c8c63237b1219f8abab75df9420a8e1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/farm/flowerbed_tile_01_wood_01.prefab
+- Assets/Models/Prop/farm/fertilizer_tool_01.prefab
+- Assets/Models/Prop/farm/sprinkler_03.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_02_stone_01.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_01_bone_01.prefab
+- Assets/Models/Prop/farm/farm_tile_02.prefab
+- Assets/Models/Prop/farm/sprinkler_05_liquid.prefab
+- Assets/Models/Prop/farm/vfertilizer_tool_03.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_02_bone_01.prefab
+- Assets/Models/Prop/farm/farm_tile_01.prefab
+- Assets/Models/Prop/farm/sprinkler_03_liquid.prefab
+- Assets/Models/Prop/farm/fertilizer_tool_02.prefab
+- Assets/Models/Prop/farm/fertilizer_tool_01_cover.prefab
+- Assets/Models/Prop/farm/farm_tile_02_mud.prefab
+- Assets/Models/Prop/farm/sprinkler_05.prefab
+- Assets/Models/Prop/farm/fertilizer_tool_02_cover.prefab
+- Assets/Models/Prop/farm/farm_tile_01_mud.prefab
+- Assets/Models/Prop/farm/sprinkler_01.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_01_wood_02.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_02_wood_02.prefab
+- Assets/Models/Prop/farm/vfertilizer_tool_03_cover.prefab
+- Assets/Models/Prop/farm/sprinkler_04_liquid.prefab
+- Assets/Models/Prop/farm/farm_tile_01_empty.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_02_wood_01.prefab
+- Assets/Models/Prop/farm/sprinkler_02.prefab
+- Assets/Models/Prop/farm/flowerbed_tile_01_stone_01.prefab
+- Assets/Models/Prop/farm/farm_tile_02_empty.prefab
+- Assets/Models/Prop/farm/sprinkler_04.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$fertilizer_tool_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$flowerbed_tile_set.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$flowerbed_tile_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$flowerbed_tile_grass_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$flowerbed_tile_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_04_liquid.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$vfertilizer_tool_03.mat.bundle

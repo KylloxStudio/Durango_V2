@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2677293561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7f16fba6d26c80209f5f4e29ad60c17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/farm/model/materials/sprinkler_04_liquid.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

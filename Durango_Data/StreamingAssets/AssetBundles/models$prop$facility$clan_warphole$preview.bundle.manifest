@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 520069701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8158b66524952a2c7796a2c27cc0f0e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/clan_warphole/preview/preview_warphole_04_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/preview/preview_warphole_02_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/preview/preview_warphole_01_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/preview/preview_warphole_boar01.prefab
+- Assets/Models/Prop/facility/clan_warphole/preview/preview_warphole_03_out.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$preview_shovel$model$materials$preview.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$well_01_dirt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$clan_warphole$model$materials$clan_warphole_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$clan_warphole$model$materials$clan_warphole_01_set.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$board_01.mat.bundle

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 900490964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d77bd45ceea273450a612b3ce4d7d2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Cliff/Desert/Materials/cliff_desert_btm.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

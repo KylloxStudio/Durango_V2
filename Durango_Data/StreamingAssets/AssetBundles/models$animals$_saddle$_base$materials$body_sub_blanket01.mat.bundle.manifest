@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1929053512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74a889bebb9728f0ffc7b1b9fa478c08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_saddle/_base/Materials/body_sub_blanket01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

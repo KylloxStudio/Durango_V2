@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3466094339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 091eb5c7f00dd40a6b0684c661af17fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df6248c46a870fdb46b3250e01c481b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_saddle/TRex/saddle_TRex.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_saddle$_base$materials$mat_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_saddle$_base$materials$saddle_big.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_saddle$_base$materials$body_sub_blanket01.mat.bundle

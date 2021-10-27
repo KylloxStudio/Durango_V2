@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 2312925903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46f8341b017d77e3c8964c399074cc6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 217e0d8ddc96ec79eaf1e2b8869e81bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 909ea52158830a3498154a2f35479e89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e88dca43399a887449bc7bfc1fc0220d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd6b31541a2cf2b4bab3bd784abb40d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3343d4c4d828d374594b48d5f33099e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfebbd8a5978e3546800d321911aa9e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/trap/trap_string_01_broken.prefab
+- Assets/Models/Prop/trap/trap_pit_01.prefab
+- Assets/Models/Prop/trap/trap_fishing_01.prefab
+- Assets/Models/Prop/trap/trap_damage_01.prefab
+- Assets/Models/Prop/trap/trap_string_01.prefab
+- Assets/Models/Prop/trap/trap_basket_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$trap$model$materials$trap_string_01.mat.bundle

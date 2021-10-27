@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2783149346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: febfe56b2f603501a7ba13b3ee9b9ba4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/andrew.bnk.bytes
+Dependencies: []

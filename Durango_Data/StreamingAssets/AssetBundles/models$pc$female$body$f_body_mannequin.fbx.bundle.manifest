@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1515026634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9c7d3176860186014bcab02df62f24a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12d2b05760c7e6641c364636f65e22fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Body/f_body_mannequin.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_mannequin.mat.bundle

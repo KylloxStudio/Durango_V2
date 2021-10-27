@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2149591618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94a8cf53ba8f724cb9ac1c52113ad09e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1723975021c7d9580ad63358fa907c0c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5eee7db4c542b3649a0062c110551c69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/17_Etc/HologramTest.prefab
+- Assets/Particle/Prefabs/Durango_01/17_Etc/test.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gatchashop$gatchashop_warp_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gatchashop$gatchashop_warp_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gatchashop$gatchashop_warp_01_tiles.mat.bundle

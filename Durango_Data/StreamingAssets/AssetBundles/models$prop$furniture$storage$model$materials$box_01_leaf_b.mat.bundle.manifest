@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2350048622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e545f7beab40e85a743c1305e6f17d89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/storage/model/materials/box_01_leaf_b.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

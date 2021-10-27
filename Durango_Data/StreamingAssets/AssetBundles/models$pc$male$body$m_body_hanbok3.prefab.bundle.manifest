@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2267335652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 459545d6a7f97b370cfc77ad8cbb5a26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27fb8e8c08900bcc40b88164898e7b43
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Body/m_body_hanbok3.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_nude01-texture1.mat.bundle

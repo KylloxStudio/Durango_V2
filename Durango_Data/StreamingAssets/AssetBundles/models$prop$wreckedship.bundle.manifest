@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 4029984429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c250c4eef5e78541e6b0da9e72feab9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac7320382dc00388eb64f951935f3642
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0f0aba878f59ac40b02d21f3c56c332, type: 3}
+Assets:
+- Assets/Models/Prop/wreckedship/ST_wreckedship_b.prefab
+- Assets/Models/Prop/wreckedship/ST_wreckedship_a.prefab
+- Assets/Models/Prop/wreckedship/ST_wreckedship_01.prefab
+- Assets/Models/Prop/wreckedship/ST_wreckedship_d.prefab
+- Assets/Models/Prop/wreckedship/ST_wreckedship_c.prefab
+- Assets/Models/Prop/wreckedship/ST_wreckedship_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_side_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_stone_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_stone_b.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_stone_c.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_4.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_5.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_01_3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_m_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_s_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_mudflat_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$st_wreckedship_shadow.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$scoop_ground_mudflat_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$wreckedship$model$materials$scoop_side_02.mat.bundle

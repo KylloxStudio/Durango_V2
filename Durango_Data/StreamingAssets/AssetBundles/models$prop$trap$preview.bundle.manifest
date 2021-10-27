@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1465088817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d852fb3230917b82f28508f0f8a50a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dabb9fadd67952b0420cc30b32630c7e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/trap/preview/preview_trap_pit_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$preview_shovel$model$materials$preview.mat.bundle

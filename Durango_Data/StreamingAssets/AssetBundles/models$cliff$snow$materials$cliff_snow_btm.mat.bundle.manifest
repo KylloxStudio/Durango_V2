@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1695094108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cbce04c05b29d14293a0cf17736da9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Cliff/Snow/Materials/cliff_snow_btm.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

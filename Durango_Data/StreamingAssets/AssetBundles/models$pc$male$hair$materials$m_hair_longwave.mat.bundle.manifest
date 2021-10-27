@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1925896783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04ce6b59681df706d8726a40de2ddb18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Hair/Materials/m_hair_longwave.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

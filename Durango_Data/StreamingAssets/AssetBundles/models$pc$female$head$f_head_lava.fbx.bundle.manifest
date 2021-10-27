@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2791242472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 872a9746630b7607a2e39b752bd58d2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ce716e66d0159eb873a3e3e4295a9c2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Head/f_head_lava.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

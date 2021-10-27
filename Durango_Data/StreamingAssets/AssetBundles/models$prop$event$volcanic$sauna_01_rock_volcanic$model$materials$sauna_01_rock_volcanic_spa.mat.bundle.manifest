@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2180255902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1962374af6cc91af86b9f2eaf9c4657
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/model/materials/sauna_01_rock_volcanic_spa.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

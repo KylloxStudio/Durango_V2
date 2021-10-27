@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 2918676216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90f54ba8ca5f758ac42dbe6e5485df50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3082fd7a92fb4b0cd262f3f6b8f25fed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/fence/fence_03_bone_wall_a.prefab
+- Assets/Models/Prop/fence/gate_01_wood_small.prefab
+- Assets/Models/Prop/fence/fence_04_green_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_stone_wall_a.prefab
+- Assets/Models/Prop/fence/gate_02_wood.prefab
+- Assets/Models/Prop/fence/gate_03_wood.prefab
+- Assets/Models/Prop/fence/fence_02_wood_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_stone_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_rock_granite.prefab
+- Assets/Models/Prop/fence/fence_01_wood_wall_a.prefab
+- Assets/Models/Prop/fence/gate_01_straw_small.prefab
+- Assets/Models/Prop/fence/fence_02_bone.prefab
+- Assets/Models/Prop/fence/gate_03_bone.prefab
+- Assets/Models/Prop/fence/gate_01_wood.prefab
+- Assets/Models/Prop/fence/fence_01_straw_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_leather.prefab
+- Assets/Models/Prop/fence/fence_03_wood.prefab
+- Assets/Models/Prop/fence/fence_04_green_wall_a.prefab
+- Assets/Models/Prop/fence/fence_03_leather_wall_b.prefab
+- Assets/Models/Prop/fence/fence_01_wood_wall_b.prefab
+- Assets/Models/Prop/fence/fence_01_wood.prefab
+- Assets/Models/Prop/fence/fence_03_bone.prefab
+- Assets/Models/Prop/fence/fence_03_rock_basalt.prefab
+- Assets/Models/Prop/fence/gate_03_leather.prefab
+- Assets/Models/Prop/fence/fence_02_wood.prefab
+- Assets/Models/Prop/fence/gate_02_stone.prefab
+- Assets/Models/Prop/fence/fence_03_wood_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_rock_basalt_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_rock_basalt_wall_a.prefab
+- Assets/Models/Prop/fence/fence_03_wood_wall_a.prefab
+- Assets/Models/Prop/fence/gate_03_stone.prefab
+- Assets/Models/Prop/fence/fence_03_bone_wall_b.prefab
+- Assets/Models/Prop/fence/fence_02_stone_wall_b.prefab
+- Assets/Models/Prop/fence/fence_02_stone_wall_a.prefab
+- Assets/Models/Prop/fence/gate_03_rock_basalt.prefab
+- Assets/Models/Prop/fence/fence_01_straw.prefab
+- Assets/Models/Prop/fence/fence_02_wood_wall_a.prefab
+- Assets/Models/Prop/fence/gate_02_wood_small.prefab
+- Assets/Models/Prop/fence/fence_02_bone_wall_b.prefab
+- Assets/Models/Prop/fence/fence_02_stone.prefab
+- Assets/Models/Prop/fence/fence_02_bone_wall_a.prefab
+- Assets/Models/Prop/fence/fence_04_green.prefab
+- Assets/Models/Prop/fence/fence_05_green_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_leather_wall_a.prefab
+- Assets/Models/Prop/fence/fence_05_green.prefab
+- Assets/Models/Prop/fence/gate_03_rock_granite.prefab
+- Assets/Models/Prop/fence/fence_01_straw_wall_a.prefab
+- Assets/Models/Prop/fence/gate_02_bone.prefab
+- Assets/Models/Prop/fence/fence_03_stone.prefab
+- Assets/Models/Prop/fence/fence_03_rock_granite_wall_b.prefab
+- Assets/Models/Prop/fence/fence_03_rock_granite_wall_a.prefab
+- Assets/Models/Prop/fence/fence_05_green_wall_a.prefab
+- Assets/Models/Prop/fence/gate_01_straw.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_01_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_site_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_02_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_02_stone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_site_01_dark.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_03_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_03_leather.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$gate_03_rock_basalt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$gate_03_rock_granite.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_03_stone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_03_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_04_green.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_site_02.mat.bundle

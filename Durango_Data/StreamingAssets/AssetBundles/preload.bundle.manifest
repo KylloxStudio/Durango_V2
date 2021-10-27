@@ -1,0 +1,252 @@
+ManifestFileVersion: 0
+CRC: 374882304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3234b3dff6cf23f58080e9d4d753bd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc652723f6f2fec76da946d6ce4d0d6d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6050e2d5de785ce4d931e4dbdbf2d755, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shader/Custom/Torch.shader
+- Assets/Preload/LitSphere/matcap_metal_11.psd
+- Assets/Shader/Prologue/TrainCover_Exterior_Lightmapped_Transparent.shader
+- Assets/Shader/Prologue/TrainCover_Window_Transparent.shader
+- Assets/Shader/Prologue/train_thunder_03.shader
+- Assets/Shader/_Common.cginc
+- Assets/Preload/LitSphere/litsphere_common_wet_half.psd
+- Assets/Preload/LitSphere/litsphere_env.psd
+- Assets/Shader/Custom/SimpleTerrain.shader
+- Assets/Preload/LitSphere/litsphere_hair_fire.psd
+- Assets/Preload/LitSphere/litsphere_skin_dark.psd
+- Assets/Shader/LitSphere/_LitSphere_Normal.cginc
+- Assets/Shader/PostProcess/OutlineColorize.shader
+- Assets/Preload/LitSphere/litsphere_cilff_wet.psd
+- Assets/Preload/Materials/PlaneShadowMaterial.mat
+- Assets/Shader/Prologue/Scoop.shader
+- Assets/Preload/Materials/Outline.mat
+- Assets/Preload/LitSphere/litsphere_dino_giant.psd
+- Assets/Preload/LitSphere/matcap_sky_01.png
+- Assets/Preload/LitSphere/matcap_metal_04_ll.png
+- Assets/Preload/LitSphere/litsphere_dino_wet.psd
+- Assets/Shader/LitSphere/LitSphere_MostlyOpaque.shader
+- Assets/Shader/Particle/UnionFlow.shader
+- Assets/Preload/LitSphere/matcap_leather_02.png
+- Assets/Preload/LitSphere/compi_test.tga
+- Assets/Shader/LitSphere/LitSphere_ThreeColor_DualMode_Diffuse.shader
+- Assets/Shader/NGUI/Portrait.shader
+- Assets/Shader/InstagramMode/ContrastAdjustment.shader
+- Assets/Shader/PostProcess/CutScenePostProcess.shader
+- Assets/Preload/LitSphere/matcap_metal_01.jpg
+- Assets/Preload/LitSphere/matcap_bone_01.png
+- Assets/Preload/LitSphere/litsphere_hair_wavy_insidetrain.psd
+- Assets/Shader/Custom/PlaneShadows.shader
+- Assets/Shader/Prologue/train_rainScroll_01.shader
+- Assets/Preload/LitSphere/matcap_sky_07.png
+- Assets/Shader/Custom/EmblemFlag.shader
+- Assets/Preload/LitSphere/litsphere_flat.psd
+- Assets/Shader/Sprite/WithShadow.shader
+- Assets/Preload/LitSphere/matcap_skin_02.png
+- Assets/Shader/Sprite/Additive.shader
+- Assets/Preload/LitSphere/litsphere_skin_new.psd
+- Assets/Shader/Particle/UnionRippleDistortion.shader
+- Assets/Preload/LitSphere/matcap_metal_02.png
+- Assets/Preload/LitSphere/matcap_metal_12.psd
+- Assets/Shader/Custom/BlendingTexture.shader
+- Assets/Shader/NGUI/Hardlight.shader
+- Assets/Shader/PostProcess/OutlineScreen.shader
+- Assets/Shader/Custom/Blinker.shader
+- Assets/Shader/LitSphere/_LitSphere_ThreeColor.cginc
+- Assets/Shader/Particle/Legacy/Transparent.shader
+- Assets/Shader/LitSphere/LitSphere_Skin.shader
+- Assets/Shader/NGUI/SingleChannel.shader
+- Assets/Shader/NGUI/Additive.shader
+- Assets/Preload/LitSphere/litsphere_shopbox.psd
+- Assets/Shader/Custom/LightMask.shader
+- Assets/Preload/LitSphere/litsphere_hair.psd
+- Assets/Preload/LitSphere/litsphere_common.psd
+- Assets/Shader/NGUI/Multiply.shader
+- Assets/Preload/LitSphere/litsphere_dino_giant_die.psd
+- Assets/Shader/Building/Floor3.shader
+- Assets/Preload/LitSphere/matcap_old_bronze1.jpg
+- Assets/Shader/UIBlur/GaussianBlur.mat
+- Assets/Preload/LitSphere/matcap_metal_13.psd
+- Assets/Shader/Sprite/TreeShadow.shader
+- Assets/Preload/LitSphere/matcap_metal_09.png
+- Assets/Shader/Prologue/train_raindrops.shader
+- Assets/Shader/LitSphere/_LitSphere_FX.cginc
+- Assets/Shader/LitSphere/LitSphere_Diffuse.shader
+- Assets/Shader/Prologue/train_godray_01.shader
+- Assets/Preload/LitSphere/litsphere_prop.psd
+- Assets/Shader/LitSphere/LitSphere_ThreeColor_DualMode_MostlyOpaque.shader
+- Assets/Preload/LitSphere/litsphere_broze01.psd
+- Assets/Preload/LitSphere/litsphere_cilff.psd
+- Assets/Shader/NGUI/Logo.shader
+- Assets/Shader/NGUI/_Clip_Common.cginc
+- Assets/Shader/LitSphere/LitSphere_DualMode_Animal.shader
+- Assets/Shader/Particle/UnionMasking.shader
+- Assets/Shader/InstagramMode/CopyScreenEffect.shader
+- Assets/Preload/LitSphere/matcap_metal_08.png
+- Assets/Preload/LitSphere/litsphere_common_wet_full.psd
+- Assets/Shader/NGUI/GlitterEffect.shader
+- Assets/Shader/Particle/Legacy/Additive_Crater.shader
+- Assets/Shader/Building/Floor5Multiply.shader
+- Assets/Shader/LitSphere/LitSphere_DualMode_Diffuse.shader
+- Assets/Preload/LitSphere/matcap_fx_01.png
+- Assets/Preload/LitSphere/matcap_metal_07.png
+- Assets/Preload/LitSphere/matcap_leather_03.png
+- Assets/Shader/Unlit/_Unlit_Common.cginc
+- Assets/Shader/Custom/IndoorAO.shader
+- Assets/Preload/LitSphere/litsphere_dino_insidetrain.psd
+- Assets/Preload/LitSphere/matcap_sky_02.png
+- Assets/Shader/Building/_Floor_Common.cginc
+- Assets/Shader/PostProcess/VignettingEffect.shader
+- Assets/Shader/Custom/ContactShadow.shader
+- Assets/Preload/LitSphere/litsphere_fur_die.psd
+- Assets/Preload/LitSphere/litsphere_common_insidetrain.psd
+- Assets/Shader/Building/Road.shader
+- Assets/Shader/NGUI/Transparent_With_Filter.shader
+- Assets/Shader/NGUI/_Transparent_Common.cginc
+- Assets/Shader/Prologue/LightmappedDiffuse_Wet.shader
+- Assets/Shader/Prologue/LightmappedDiffuse.shader
+- Assets/Shader/Custom/Invisible.shader
+- Assets/Preload/LitSphere/matcap_sky_04.png
+- Assets/Preload/LitSphere/litsphere_dino.psd
+- Assets/Preload/LitSphere/matcap_metal_04.png
+- Assets/Shader/Particle/Legacy/Multiply.shader
+- Assets/Shader/InstagramMode/Grayscale.shader
+- Assets/Preload/LitSphere/litsphere_skin_insidetrain.psd
+- Assets/Preload/LitSphere/matcap_metal_06.png
+- Assets/Shader/Sprite/AlphaTest.shader
+- Assets/Preload/LitSphere/matcap_skin_01.png
+- Assets/Shader/LitSphere/LitSphere_ThreeColor_Diffuse.shader
+- Assets/Shader/Sprite/FloorPuddle.shader
+- Assets/Shader/PostProcess/ColorCorrectionEffect.shader
+- Assets/Preload/LitSphere/litsphere_fabric.psd
+- Assets/Shader/Sprite/Transparent.shader
+- Assets/Shader/Particle/Legacy/SteamScroll_02.shader
+- Assets/Shader/Custom/IndoorMask.shader
+- Assets/Shader/PostProcess/FullscreenScroll.shader
+- Assets/Shader/NGUI/_Vertex_Common.cginc
+- Assets/Preload/LitSphere/matcap_metal_01_br.png
+- Assets/Shader/NGUI/WorldMap.shader
+- Assets/Preload/LitSphere/matcap_metal_03.png
+- Assets/Shader/UIBlur/GaussianBlur.shader
+- Assets/Preload/LitSphere/litsphere_fur.psd
+- Assets/Shader/Particle/Union.shader
+- Assets/Shader/Particle/UnionDistortion.shader
+- Assets/Preload/Materials/Outline_PC.mat
+- Assets/Preload/LitSphere/litsphere_metal.psd
+- Assets/Preload/LitSphere/litsphere_box10.psd
+- Assets/Preload/LitSphere/matcap_sky_03.png
+- Assets/Shader/Sprite/Floor4Grass.shader
+- Assets/Preload/LitSphere/litsphere_skin.psd
+- Assets/Shader/InstagramMode/SepiaTone.shader
+- Assets/Shader/PostProcess/CustomOverlay.shader
+- Assets/Shader/NGUI/Transparent.shader
+- Assets/Shader/PostProcessingProfile_V2.asset
+- Assets/Shader/LitSphere/_LitSphere_Common.cginc
+- Assets/Preload/LitSphere/litsphere_skin_red.psd
+- Assets/Shader/PostProcess/ScreenEffect.shader
+- Assets/Preload/LitSphere/litsphere_dino_giant_normal.psd
+- Assets/Preload/LitSphere/matcap_metal_04_l.png
+- Assets/Shader/Particle/Dissolve.shader
+- Assets/Shader/Particle/Legacy/Additive.shader
+- Assets/Preload/LitSphere/litsphere_dino_giant_insidetrain.psd
+- Assets/Shader/NGUI/RGBMax.shader
+- Assets/Shader/Prologue/ScoopCoverSide.shader
+- Assets/Shader/NGUI/Text.shader
+- Assets/Preload/LitSphere/litsphere_hair_insidetrain.psd
+- Assets/Preload/LitSphere/matcap_plastic_02.png
+- Assets/Shader/Sprite/TransparentNoStencil.shader
+- Assets/Shader/NGUI/AlphaCalculator.shader
+- Assets/Shader/Building/Floor1.shader
+- Assets/Preload/LitSphere/litsphere_common_dirt.psd
+- Assets/Preload/LitSphere/matcap_old_copper.jpg
+- Assets/Preload/LitSphere/matcap_gold_04.psd
+- Assets/Preload/LitSphere/matcap_gold_03.psd
+- Assets/Preload/LitSphere/matcap_metal_05.png
+- Assets/Preload/LitSphere/litsphere_skin_wet_half.psd
+- Assets/Shader/Prologue/LightmappedDiffuse_GammaCorrection.shader
+- Assets/Shader/Unlit/Diffuse.shader
+- Assets/Shader/LitSphere/LitSphere_FXDiffuse.shader
+- Assets/Shader/LitSphere/_LitSphere_Dual.cginc
+- Assets/Shader/Particle/Hologram.shader
+- Assets/Shader/Building/Floor4.shader
+- Assets/Preload/LitSphere/litsphere_skin_wet_full.psd
+- Assets/Preload/LitSphere/matcap_chrome.png
+- Assets/Preload/LitSphere/litsphere_fur_wet.psd
+- Assets/Shader/Building/Floor2NoShadow.shader
+- Assets/Preload/LitSphere/litsphere_dino_insidetrain_wet.psd
+- Assets/Preload/LitSphere/matcap_rainbow.png
+- Assets/Shader/Sprite/_Sprite_Common.cginc
+- Assets/Shader/Particle/Legacy/Additive_No_ZTest.shader
+- Assets/Preload/LitSphere/litsphere_dino_wet_PRG.psd
+- Assets/Preload/LitSphere/matcap_gold_01.psd
+- Assets/Preload/LitSphere/matcap_plastic_03.png
+- Assets/Preload/LitSphere/litsphere_dino_wet_PRG_lightning.psd
+- Assets/Shader/Custom/Cloud.shader
+- Assets/Shader/LitSphere/LitSphere_DualMode_MostlyOpaque.shader
+- Assets/Shader/Particle/Legacy/Transparent_No_ZTest.shader
+- Assets/Shader/Prologue/_Prologue_Common.cginc
+- Assets/Preload/LitSphere/matcap_sky_06.png
+- Assets/Preload/LitSphere/matcap_leather_01.png
+- Assets/Preload/LitSphere/matcap_metal_10.png
+- Assets/Preload/LitSphere/matcap_sky_05.png
+- Assets/Shader/Custom/Outline.shader
+- Assets/Shader/Particle/Legacy/SteamScroll_01.shader
+- Assets/Shader/NGUI/MaskedTransparent.shader
+- Assets/Preload/Materials/ViewConeMaterial.mat
+- Assets/Preload/LitSphere/litsphere_dino_down.psd
+- Assets/Preload/LitSphere/litsphere_hair_wavy.psd
+- Assets/Shader/LitSphere/LitSphere_DualMode_Detail.shader
+- Assets/Preload/LitSphere/matcap_gold_02.psd
+- Assets/Shader/PostProcess/IndoorEffect.shader
+- Assets/Shader/Unlit/MostlyOpaque.shader
+- Assets/Preload/LitSphere/litsphere_dino_die.psd
+- Assets/Preload/LitSphere/matcap_plastic_01.png
+- Assets/Shader/Custom/PreviewStructure.shader
+- Assets/Preload/LitSphere/matcap_crystal.psd
+- Assets/Shader/NGUI/VHSColored.shader
+- Assets/Shader/Building/Floor2AlphaUV.shader
+- Assets/Shader/LitSphere/LitSphere_FXTransparent.shader
+- Assets/Shader/LitSphere/LitSphere_DualMode_NormalMap.shader
+- Assets/Preload/LitSphere/matcap_old_bronze2.jpg
+- Assets/Shader/NGUI/Glitch.shader
+- Assets/Preload/LitSphere/litsphere_common_die.psd
+- Assets/Preload/LitSphere/litsphere_wet.psd
+- Assets/Shader/Custom/ViewCone.shader
+- Assets/Shader/Particle/Legacy/Additive_Offset.shader
+- Assets/Shader/Prologue/TrainCover_Exterior_Transparent.shader
+- Assets/Shader/InstagramMode/ToneEffect.shader
+- Assets/Shader/NGUI/RGBMask.shader
+- Assets/Shader/InstagramMode/TiltEffect.shader
+Dependencies: []

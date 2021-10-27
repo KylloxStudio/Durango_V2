@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1038398628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcf9cf9f883f871825424251419c5f18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_helmet/Mammoth/helmet_Deinotherium_small.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_helmet$_base$materials$head_01_base.mat.bundle

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 770605319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cccdcb91e09317fb63b383eb5919fb4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d75c5232119c5c1a0ce910a2df44cf0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Equipment/Melee/heavyarms_chainsaw_01_Blade.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$equipment$melee$heavyarms_chainsaw_01.fbx.bundle

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2945745677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0455f4fafe2a65dc83b1fc8dfe4a6d18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/en_US/voice_npc_ancora.bnk.bytes
+Dependencies: []

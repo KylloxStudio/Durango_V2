@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2620133920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19bd45535c33cfb79f139d214c2f66e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d53ee34b0787764dbd159de8f44c4b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/xmas/snowman/snowman02.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman05.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman09.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman04.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman08.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman03.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman01.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman06.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman10.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman07.prefab
+- Assets/Models/Prop/event/xmas/snowman/snowman.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$xmas$snowman$model$materials$snowman.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$xmas$snowman$model$materials$snowman01.mat.bundle

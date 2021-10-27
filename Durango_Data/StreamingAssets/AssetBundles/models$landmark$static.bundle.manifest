@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1591357160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d8a4c42c04f25df1109e5024eca7a03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f5b9a6d2fe6bf90d33e64c8bc3eb19df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Landmark/Static/ST_train_wreckage_01_c.prefab
+- Assets/Models/Landmark/Static/ST_train_wreckage_01_a.prefab
+- Assets/Models/Landmark/Static/ST_train_wreckage_01_b.prefab
+- Assets/Models/Landmark/Static/ST_Building_school_01.prefab
+- Assets/Models/Landmark/Static/biocom_marker.prefab
+- Assets/Models/Landmark/Static/ST_highway_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$ancora$npc$materials$bagsncart_ancora.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_side_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_crack_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_road_00.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_road_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_tile_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$warp$city_prop_set$model$materials$city_prop_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_lecturetable.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_railroad_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$static$model$materials$st_train_wreckage_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$static$model$materials$st_ivy.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$static$model$materials$st_train_wreckage_01_railroad.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$static$model$materials$st_train_wreckage_01_railroad_shadow.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$landmark_ao$model$materials$landmark_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$warp$city_prop_set$model$materials$city_prop_set_02.mat.bundle

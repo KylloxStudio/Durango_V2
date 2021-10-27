@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1449752526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15a3166fb1ba567b45334f98194b387b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3dafa8be02d02a91e5ccdfda6c09b70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b46bd040afc0a7c458ec9e9dac73bb47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aba14494891a2bb46ae3254386418d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0beb8fe5ba7586943b8d39aa15f98dcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8a9256c562e90f459efee0b041e1075, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/NPC/F_NPC_K.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$shared_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$_anim$f_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$npc$materials$npc_k_skin2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$npc$materials$npc_k_hair2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$npc$materials$npc_k_body.mat.bundle

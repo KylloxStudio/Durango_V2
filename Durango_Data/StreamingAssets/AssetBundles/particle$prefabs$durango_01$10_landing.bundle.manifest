@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3460640640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebf1ba0ba058f3b7d459708fade42938
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26c1343ce70b6e5dfe7bc2017fb4829d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Snow.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Swamp.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Forest.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Volcanic.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Snow.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Forest_blue.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Red.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Water_Deep.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Forest.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Forest_blue.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Red.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Water.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Swamp.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Dust_01_Water.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01.prefab
+- Assets/Particle/Prefabs/Durango_01/10_Landing/FX_Landing_Sliding_01_Volcanic.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_watersplat_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$dust_01.mat.bundle

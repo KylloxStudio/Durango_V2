@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 1321573504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6320fed5ea02aeb815a7b2f9e9042ec6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e086a0183f06e6a5a892d3bfe493609
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6d2e2a1aafae384b9645a7ceee98c53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d00a611df56dde74fa9c39c1755aefa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d2ca56facb32004481137bcb40522e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/base/temptent_pillar_wood.prefab
+- Assets/Models/Prop/base/tent_pillar_bone.prefab
+- Assets/Models/Prop/base/log_cabin_01_right.prefab
+- Assets/Models/Prop/base/tent_roof_leather.prefab
+- Assets/Models/Prop/base/bonfire_01.prefab
+- Assets/Models/Prop/base/bonfire_02_burning.prefab
+- Assets/Models/Prop/base/bonfire_01_skewer.prefab
+- Assets/Models/Prop/base/tent_roof_fabric.prefab
+- Assets/Models/Prop/base/temptent_roof_straw.prefab
+- Assets/Models/Prop/base/bonfire_02.prefab
+- Assets/Models/Prop/base/log_cabin_01_night_light.prefab
+- Assets/Models/Prop/base/tent_roof_straw.prefab
+- Assets/Models/Prop/base/log_cabin_01_front.prefab
+- Assets/Models/Prop/base/bonfire_01_bowl.prefab
+- Assets/Models/Prop/base/log_cabin_01_fireplace.prefab
+- Assets/Models/Prop/base/tent_pillar_wood.prefab
+- Assets/Models/Prop/base/log_cabin_01_left.prefab
+- Assets/Models/Prop/base/log_cabin_01_back.prefab
+- Assets/Models/Prop/base/bonfire_01_burning.prefab
+- Assets/Models/Prop/base/bonfire_01_barbecue.prefab
+- Assets/Models/Prop/base/log_cabin_01_floor.prefab
+- Assets/Models/Prop/base/temptent_pillar_bone.prefab
+- Assets/Models/Prop/base/log_cabin_01_indoor_mask.prefab
+- Assets/Models/Prop/base/temptent_roof_leather.prefab
+- Assets/Models/Prop/base/temptent_roof_leaf.prefab
+- Assets/Models/Prop/base/log_rockingchair_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$pattern.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$bonfire_set.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$campfire_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_fireexplosion_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$log_cabin_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3_flow2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_light_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$log_cabin_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$log_cabin_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$log_cabin_01_innershadow.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_mask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_ao.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$log_cabin_01_night_light.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$tent_pillar_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$base$model$materials$tent_pillar_wood.mat.bundle

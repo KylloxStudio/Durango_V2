@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1846930863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05dbc3b8666a6722d0fa15b3722d6344
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/module/site/site.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_site_01.mat.bundle

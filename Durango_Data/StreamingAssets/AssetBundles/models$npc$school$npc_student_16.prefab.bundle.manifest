@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 605924071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e581bfed6d9690d089a91b6c2f3f0783
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4d655ae6854470ac89328b8238ae359
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9879542332f639943b2e9ac30970ea63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0beb8fe5ba7586943b8d39aa15f98dcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8a9256c562e90f459efee0b041e1075, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/NPC/school/NPC_student_16.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$shared_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$_anim$m_reference_ae.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$beard$m_beard_large_castro.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$head$m_head_glasses_01.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$beard$materials$m_beard_castro.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_sideshave.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_school_cardigan.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$head$materials$u_head_glasses.mat.bundle

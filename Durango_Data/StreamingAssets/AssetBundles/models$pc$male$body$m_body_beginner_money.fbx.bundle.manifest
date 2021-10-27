@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1232177795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d2a52d562f3342d66b0dcca43292f49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58132d93dfecdc47b78b8350da4288fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Body/m_body_beginner_money.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_nude01-texture1.mat.bundle

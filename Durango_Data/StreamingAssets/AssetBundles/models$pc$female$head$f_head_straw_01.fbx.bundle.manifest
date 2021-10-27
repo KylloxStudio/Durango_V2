@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2281783683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ac7848e79f15d5eb1f7df281c07f12c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58132d93dfecdc47b78b8350da4288fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Head/f_head_straw_01.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
