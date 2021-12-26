@@ -1,0 +1,10 @@
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\bin\Debug\CheckUpdate_DurangoV2.exe.config
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\bin\Debug\CheckUpdate_DurangoV2.exe
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\bin\Debug\CheckUpdate_DurangoV2.pdb
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\obj\Debug\CheckUpdate_DurangoV2.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\obj\Debug\CheckUpdate_DurangoV2.csproj.CopyComplete
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\obj\Debug\CheckUpdate_DurangoV2.exe
+C:\Users\my\source\repos\CheckUpdate_DurangoV2\CheckUpdate_DurangoV2\obj\Debug\CheckUpdate_DurangoV2.pdb

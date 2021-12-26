@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1337396551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5810039d002b54fe86daaedd5830caf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cacf437c1be4d31e6376dd4e5b9c11e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8df9664566c0a56409c710054dcb7b9c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/CardNews/techsupport_help.asset
+Dependencies: []

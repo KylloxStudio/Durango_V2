@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2476390789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 978380b38c2c07a7cd4be13b0e7ed8bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e4fe8a8c508b2f1ec3cc34e2a5577e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big_Sn.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_Sn.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Stone_Hit_02.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Wood_Peel.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_Tu.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Bone_Hit_02.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Blade_Decal_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_Tu.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big_Green.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Basket_Floor_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big_Sb.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Wood_Hit_02.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big_De.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_Green.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Blade_Spark_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Stone_Hit_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Basket_Tap_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big_Tu.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_Sw.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Cloth_Tap_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Harpoon_Peel_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Smith_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Big_Pb.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_Green.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Fire_steel_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Smith_02.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Smith_03.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_Sw.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_De.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_Sb.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Bone_Peel.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_Sn.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_Sb.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_De.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_L_Pb.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Wood_Hit_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Base_Rake_Small_R_Pb.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_01.prefab
+- Assets/Particle/Prefabs/Durango_02/02_Craft/FX_Craft_Bone_Hit_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

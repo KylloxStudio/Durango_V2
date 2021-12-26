@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3255563697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 134ab2f75c537948587ed2a1cf2f342d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ce27613221721ca97985e72ff67cba3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Head/f_head_special_collector_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glowpoint_01.mat.bundle

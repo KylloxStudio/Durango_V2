@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 781683743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77258ae4bedbc97ea8a03daec122725f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/craft/worktable_01_sharpeners_01.prefab
+- Assets/Models/Prop/craft/worktable_01_craft_bone.prefab
+- Assets/Models/Prop/craft/worktable_01_assemble_furniture_01.prefab
+- Assets/Models/Prop/craft/worktable_01_craft_stone.prefab
+- Assets/Models/Prop/craft/worktable_01_sewing_01.prefab
+- Assets/Models/Prop/craft/worktable_02_entrust.prefab
+- Assets/Models/Prop/craft/worktable_01_craft_wood.prefab
+- Assets/Models/Prop/craft/worktable_01_entrust.prefab
+- Assets/Models/Prop/craft/tree_bark_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$craft$model$materials$material_01_set.mat.bundle

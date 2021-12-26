@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3468409397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8430ace61c80beefcffcf3377bbdc4ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/sport/preview/preview_icehockeypost_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/preview/preview_footballpost_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/preview/preview_handballpost_01_w.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$sport$model$materials$footballpost_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$sport$model$materials$post_preview_01.mat.bundle

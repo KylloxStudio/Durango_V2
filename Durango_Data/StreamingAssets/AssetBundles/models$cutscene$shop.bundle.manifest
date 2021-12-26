@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 3376427317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85cfc52eb04e4f08d75ac66aa3ebb919
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 805c1fbedaf6ff3433cfb37abc768622
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e60b27407f50fda44bf6cf165724d455, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: accd64a10969be74a8f0f79adfbbaef7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24932433fd48c6a43acb2899f3d8db7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92011a58164ac624cb8e5c9c0f872455, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b13fff3e1f9db6c4a845ffd2c228c02e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63f267af012b9f54c9d5c44646f41580, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/CutScene/shop/ShopCutscene.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01_onprop.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_01_x2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_flare_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$dust_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_port_find_01.mat.bundle

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2559452413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d6075422648a340bd6c5d13039046c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Hair/m_hair_short_side_03.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$f_hair_lady.mat.bundle

@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 2928484074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44e31c69329e58135af44e63b3455021
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab9fc1b405112cc987461013a4406442
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5eee7db4c542b3649a0062c110551c69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_01_strong.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Escape_02.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Lance_Dash_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Stab_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Claw_L_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_01_Long.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_01_Slash.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_01_curl.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Swing_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Bow_Shoot_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Escape_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_01_weak.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Dust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/z_backup_FX_Attack_Lance_Dash_02.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Claw_R_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Slash_01.prefab
+- Assets/Particle/Prefabs/Durango_01/09_Attack/FX_Attack_Pet_SkillActivated_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_watersplat_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_01$defaultmaterial.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_01_x2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glowpoint_01.mat.bundle

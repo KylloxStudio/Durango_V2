@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2958482584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 197489ea5e7f252ac11444941d936470
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a159d1946a42d0e067ed357f50811b3b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be8877c4f4ebfa749a1d4bb53f8a1d59, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/Dog/Dog_framework.asset
+Dependencies: []

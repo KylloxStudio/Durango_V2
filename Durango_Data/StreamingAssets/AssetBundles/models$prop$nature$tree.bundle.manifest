@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1389748600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ead641acb11f03a7ce78b0f97827637
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02604eae4892710894ea329f6c6c1854
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7e7031c0b096fa49b268d94216aad95, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/nature/tree/BAO_01.prefab
+- Assets/Models/Prop/nature/tree/CB_middle_01_b.prefab
+- Assets/Models/Prop/nature/tree/HW_big_01.prefab
+- Assets/Models/Prop/nature/tree/DTD02.prefab
+- Assets/Models/Prop/nature/tree/RTF01.prefab
+- Assets/Models/Prop/nature/tree/DTD03.prefab
+- Assets/Models/Prop/nature/tree/CB_BIG_01.prefab
+- Assets/Models/Prop/nature/tree/CB_BIG_02.prefab
+- Assets/Models/Prop/nature/tree/RTF02.prefab
+- Assets/Models/Prop/nature/tree/DTD01.prefab
+- Assets/Models/Prop/nature/tree/CB_BIG_01_wilt.prefab
+- Assets/Models/Prop/nature/tree/BAO_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gathering$fx_trees_cherry_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$tree$materials$cb_big_01_color.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$tree$materials$cb_big_01_shw.mat.bundle

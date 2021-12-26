@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2408881902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fec53b8b05c8159e855fa4ffd806ba6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/FX_Materials/Durango_01/DefaultMaterial.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 657273955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e91bb726b65cd83ffe4af37fc6ab7b1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/raptor.bnk.bytes
+Dependencies: []

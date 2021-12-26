@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 2721381449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98a71bb2ca212bb2c1df747475b88796
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 917e9f3b986f691547c31bb371c51d5e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa5afdd55f413754496e11a3dcb38b83, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/clan_warphole/warphole_04_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/warphole_02_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/clan_warphole_tuner_01.prefab
+- Assets/Models/Prop/facility/clan_warphole/warphole_boar01.prefab
+- Assets/Models/Prop/facility/clan_warphole/warphole_01_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/warphole_03_out.prefab
+- Assets/Models/Prop/facility/clan_warphole/clan_warphole_01_in.prefab
+- Assets/Models/Prop/facility/clan_warphole/outpost_warphole_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/prefabs$lightmask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$well_01_dirt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$warphole$model$materials$warphole_01_effect_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$warphole$model$materials$warphole_01_effect_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$warphole$model$materials$warphole_01_effect_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$clan_warphole$model$materials$clan_warphole_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$clan_warphole$model$materials$clan_warphole_01_set.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$drawing_board.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$board_01.mat.bundle

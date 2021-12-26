@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3216687708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89d6061d822f510c9d0cb9b840e0bd95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72655a551b3f243b39e2e261be47a40f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprite/swamp/black_puddle/Data/black_puddle.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

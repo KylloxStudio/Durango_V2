@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4108648132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8d5f71e9b7bd9b43da7eb1a980c5328
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/housing/model/materials/furniture_museum_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

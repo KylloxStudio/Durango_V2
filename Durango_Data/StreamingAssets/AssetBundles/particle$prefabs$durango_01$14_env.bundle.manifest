@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3988480617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 665a849b27d2304508d792041854bea7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0605fe76d012b1a951d4b995dc7210fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/14_Env/FX_Volc_RFS_Fire_01.prefab
+- Assets/Particle/Prefabs/Durango_01/14_Env/FX_Volc_RFS_Fire_02.prefab
+- Assets/Particle/Prefabs/Durango_01/14_Env/FX_Rainstorm_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3add.mat.bundle

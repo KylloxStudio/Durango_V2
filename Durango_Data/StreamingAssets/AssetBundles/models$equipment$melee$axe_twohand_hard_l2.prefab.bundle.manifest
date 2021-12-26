@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3676325218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b5d78fa740b87bbd0d7841b9ee11863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 39facf56d120573f8696a59ed3356df5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Equipment/Melee/axe_twohand_hard_l2.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$equipment$melee$axe_twohand_hard_l2.fbx.bundle

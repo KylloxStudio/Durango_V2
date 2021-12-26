@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3659661456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3318d9b42b0fc1fdf5da9c5bd01137a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/fence/model/materials/fence_03_leather.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$pattern.bundle

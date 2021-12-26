@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1982829628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb183edbf8656d53d2d3201ca7c273d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26c1343ce70b6e5dfe7bc2017fb4829d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/07_Making/FX_Making_IronSpark_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle

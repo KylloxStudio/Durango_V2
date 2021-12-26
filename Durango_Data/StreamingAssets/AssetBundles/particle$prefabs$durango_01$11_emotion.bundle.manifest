@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1593459640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 918e195eb4df93c5d983e1141fc3c6c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ed6e6ad9c7b5f5215c8009d8d32f6f49
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Pang_Spray_02.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_MoneyFire_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Money_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Pang_Big_02.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Pang_Big_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Witch_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Ttae.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Follow_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spray_W_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spray_M_03.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Ttae_Pang.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/z_backup_FX_Emotion_Money_02.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Follow_02.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spray_M_02.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Pang_Big_03.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/z_backupFX_Emotion_Money_03.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spring_Pang_Spray_01.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spray_W_02.prefab
+- Assets/Particle/Prefabs/Durango_01/11_Emotion/FX_Emotion_Spray_M_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_watersplat_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gathering$fx_trees_cherry_01.mat.bundle

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 327419279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88b00e1ed48b41889576220a57c188ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17d3f682280134bc1fd020b4a2c8c2e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d2ca56facb32004481137bcb40522e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Cliff/Volcanic/cliff_volcanic_a.prefab
+- Assets/Models/Cliff/Volcanic/cliff_volcanic_c.prefab
+- Assets/Models/Cliff/Volcanic/cliff_volcanic_lava_a.prefab
+- Assets/Models/Cliff/Volcanic/cliff_volcanic_b.prefab
+- Assets/Models/Cliff/Volcanic/cliff_volcanic_lava_b.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$cliff$volcanic$model$materials$cliff_volcanic_a_ivy.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$cliff$volcanic$model$materials$cliff_volcanic_a_btm.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$cliff$volcanic$model$materials$cliff_volcanic_shadow_alpha.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_etc$fx_etc_lava_light_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_bloodsplaater_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke
+  1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_02.mat.bundle

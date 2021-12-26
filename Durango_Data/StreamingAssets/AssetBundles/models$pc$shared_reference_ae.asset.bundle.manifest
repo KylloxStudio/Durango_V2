@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 40043341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 275bb1e01f16e76de32ff5a91bad7797
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf169c6e90895c490a49d16d9ba3451a
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/shared_reference_ae.asset
+Dependencies: []

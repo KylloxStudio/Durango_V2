@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2665510172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5227fbd7c4ed7e52ca185b037d0f3b6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f508a8cf465614d5b9a6fe7bde3c21cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Atlases/Explore_Atlas.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

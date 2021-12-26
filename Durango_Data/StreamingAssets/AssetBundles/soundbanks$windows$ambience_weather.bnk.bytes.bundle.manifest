@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 387430873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 954d6910a1e0cf25307324c0ff9c0c90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/ambience_weather.bnk.bytes
+Dependencies: []

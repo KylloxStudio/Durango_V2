@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3521627442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 772b74a1ba44bbc3be6daec1a989b921
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/bgm_clan.bnk.bytes
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1050839347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55bf4c2df1639a0e0873ab0f9081c288
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/dino_dimetrodon.bnk.bytes
+Dependencies: []

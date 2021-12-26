@@ -1,0 +1,153 @@
+ManifestFileVersion: 0
+CRC: 1699087259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf6ff31c7e07a5f30af1a3a89faa0239
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/module/roof/module_indoor_mask.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_4t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_woodplank_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_wood_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_granite_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_2t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_3t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_straw_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_baraque_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_03_basalt_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_rock_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_1t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_leaf_2t_b.prefab
+- Assets/Models/Prop/module/roof/roof_01_fur_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_leather_3t_a.prefab
+- Assets/Models/Prop/module/roof/roof_01_tile_1t_a.prefab
+- Assets/Models/Prop/module/roof/roof_02_wood_4t_b.prefab
+- Assets/Models/Prop/module/roof/roof_02_woodtile_3t_b.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_mask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_ao.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_leaf.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$pillar_01_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$floor_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$pillar_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$pillar_01_steel.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_baraque.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_fur.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_leather.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_woodplank.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_tile.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_02_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_02_woodtile.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_03_basalt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_03_granite.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_wall_01_ao.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_woodplank.mat.bundle

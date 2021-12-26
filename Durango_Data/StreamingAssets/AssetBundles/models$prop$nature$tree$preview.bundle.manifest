@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3840168343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d92bc0294e59894567d1c1f6502da3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c565c7495c44173f39246ba0c2265404
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7e7031c0b096fa49b268d94216aad95, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/nature/tree/preview/preview_HW_big_01.prefab
+- Assets/Models/Prop/nature/tree/preview/preview_CB_middle_01_b.prefab
+- Assets/Models/Prop/nature/tree/preview/preview_CB_BIG_01.prefab
+- Assets/Models/Prop/nature/tree/preview/preview_CB_BIG_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$tree$preview$preview_cherry.mat.bundle

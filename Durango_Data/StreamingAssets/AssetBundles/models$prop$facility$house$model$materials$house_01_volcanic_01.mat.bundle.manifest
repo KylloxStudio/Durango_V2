@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1574614028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ccf2b67b1176eabc456b037e397297e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/house/model/materials/house_01_volcanic_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

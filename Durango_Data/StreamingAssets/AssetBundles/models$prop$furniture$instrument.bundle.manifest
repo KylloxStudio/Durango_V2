@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 555622418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 999993ef37ec5d1e01f7589799b37672
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6f87d9f379448ab28ba94f296c318fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a286f643c10757643b59a0b6bf3b38fc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/instrument/drum_01.prefab
+- Assets/Models/Prop/furniture/instrument/synth_01.prefab
+- Assets/Models/Prop/furniture/instrument/drum_02.prefab
+- Assets/Models/Prop/furniture/instrument/instrument_drum_small02.prefab
+- Assets/Models/Prop/furniture/instrument/instrument_piano_elec.prefab
+- Assets/Models/Prop/furniture/instrument/instrument_piano.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$instrument$model$materials$drum_01.mat.bundle

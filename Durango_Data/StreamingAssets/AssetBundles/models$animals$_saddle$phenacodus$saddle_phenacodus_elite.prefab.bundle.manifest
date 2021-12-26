@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4285344062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06f75ae88f640961bb94912a5a1befa4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_saddle/Phenacodus/saddle_Phenacodus_elite.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_saddle$_base$materials$saddle_small.mat.bundle

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4117074395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08dc4184dd0ae451efed06b7d065c44c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 119f2849dd89c45887d6191830442f65
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/warp/school/school_chair_01_w.prefab
+- Assets/Models/Prop/warp/school/school_desk_01_w.prefab
+- Assets/Models/Prop/warp/school/school_locker_02_w.prefab
+- Assets/Models/Prop/warp/school/school_locker_01_w.prefab
+- Assets/Models/Prop/warp/school/school_lecturetable_01_w.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_lecturetable.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_desk.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_locker.mat.bundle

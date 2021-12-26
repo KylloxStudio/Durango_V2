@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1925620329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79e4ceb9c4c297d5269fcbb61fcb1aa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Body/Materials/m_body_school_cardigan_nobag.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

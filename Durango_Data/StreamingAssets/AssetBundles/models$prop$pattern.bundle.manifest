@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1180083192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73336822c5b4c90d7be27e385f1fe71f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/pattern/leather_apatosaurus_02.psd
+- Assets/Models/Prop/pattern/woodplank_common_01.psd
+- Assets/Models/Prop/pattern/fur_skunkodus_02.psd
+- Assets/Models/Prop/pattern/fur_sabertooth_tem_02.psd
+- Assets/Models/Prop/pattern/leather_macrauchenia_01.psd
+- Assets/Models/Prop/pattern/stone_common_01.psd
+- Assets/Models/Prop/pattern/fur_skunkodus_01.psd
+- Assets/Models/Prop/pattern/stone_bm_01.psd
+- Assets/Models/Prop/pattern/woodplank_mangrove01.psd
+- Assets/Models/Prop/pattern/leather_iguana.psd
+- Assets/Models/Prop/pattern/leather_styracosaurus_deer_01.psd
+- Assets/Models/Prop/pattern/fur_mammoth_01.psd
+- Assets/Models/Prop/pattern/stone_marble_01.psd
+- Assets/Models/Prop/pattern/stone_basalt_01.psd
+- Assets/Models/Prop/pattern/leather_halloween_01.psd
+- Assets/Models/Prop/pattern/woodplank_pinaceae02.psd
+- Assets/Models/Prop/pattern/fur_megaloceros_snowy_01.psd
+- Assets/Models/Prop/pattern/leather_iguana_01.psd
+- Assets/Models/Prop/pattern/woodplank_mahogany01.psd
+- Assets/Models/Prop/pattern/fur_sabertooth_tem_01.psd
+- Assets/Models/Prop/pattern/stone_obsidian_01.psd
+- Assets/Models/Prop/pattern/leather_compsognathus_01.psd
+- Assets/Models/Prop/pattern/woodplank_pinaceae01.psd
+- Assets/Models/Prop/pattern/leather_xmas02.PSD
+- Assets/Models/Prop/pattern/woodplank_oak01.psd
+- Assets/Models/Prop/pattern/leather_common_01.psd
+- Assets/Models/Prop/pattern/leather_pink_01.psd
+- Assets/Models/Prop/pattern/leather_xmas01.PSD
+- Assets/Models/Prop/pattern/leather_halloween_02.psd
+- Assets/Models/Prop/pattern/woodplank_almond01.psd
+- Assets/Models/Prop/pattern/leather_zebraceratops_01.psd
+- Assets/Models/Prop/pattern/leather_pachycephalosaurus_01.psd
+- Assets/Models/Prop/pattern/stone_granite_01.psd
+- Assets/Models/Prop/pattern/leather_blue_01.psd
+- Assets/Models/Prop/pattern/leather_tarbosaurus_01.psd
+- Assets/Models/Prop/pattern/leather_euoplocephalus_01.psd
+- Assets/Models/Prop/pattern/leather_apatosaurus_01.psd
+- Assets/Models/Prop/pattern/leather_phenacodus_01.psd
+- Assets/Models/Prop/pattern/fur_common_01.psd
+- Assets/Models/Prop/pattern/leather_parasaurolophus_01.psd
+- Assets/Models/Prop/pattern/leather_yellow_01.psd
+- Assets/Models/Prop/pattern/leather_amargasaurus.psd
+- Assets/Models/Prop/pattern/woodplank_pinaceae03.psd
+- Assets/Models/Prop/pattern/leather_warehouse_common_01.psd
+- Assets/Models/Prop/pattern/leather_bm_01.psd
+- Assets/Models/Prop/pattern/leather_allosaurus_01.psd
+- Assets/Models/Prop/pattern/leather_iguana_02.psd
+Dependencies: []

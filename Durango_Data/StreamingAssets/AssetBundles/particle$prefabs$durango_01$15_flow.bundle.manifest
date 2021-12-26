@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1263826008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35a374bb10e95bd278c1c39e30fe9bdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26c1343ce70b6e5dfe7bc2017fb4829d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/15_Flow/FX_Flow_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

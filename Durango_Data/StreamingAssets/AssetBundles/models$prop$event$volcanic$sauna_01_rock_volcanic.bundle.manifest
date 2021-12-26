@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 2230045462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c2fe42865b98bd3c373a69a3dd4c062
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1c6aad4673ee01c1a9ccd7ff4077c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d00a611df56dde74fa9c39c1755aefa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d2ca56facb32004481137bcb40522e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_bath.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_right.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_left.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_bench_02.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_bench_01.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_night_light.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_fireplace_02.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_floor.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_back.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_front.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_bar.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_fireplace_01.prefab
+- Assets/Models/Prop/event/volcanic/sauna_01_rock_volcanic/sauna_01_rock_indoor_mask.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_etc$fx_etc_lava_light_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke
+  1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_mask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_ao.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02_nodistortion.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_06.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_spa.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_06_fabric.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$volcanic$sauna_01_rock_volcanic$model$materials$sauna_01_rock_volcanic_06_fireplace.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_site_01.mat.bundle
