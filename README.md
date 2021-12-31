@@ -1,6 +1,7 @@
 # Kyllox's Durango_V2 - [Alpha v1.0](https://github.com/KylloxStudio/Durango_V2/releases/tag/v1.0)
 
-This is Kyllox's New Durango. I'm developing Durango as a solo play game. **Main Functions:**
+This is Kyllox's New Durango. I'm developing Durango as a solo play game.
+#### **Main Functions:**
 - _Weather Customizing_
 - _Building interactions_
 - _Pet functions_
