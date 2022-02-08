@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2280234221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 687c36e656bb75ff71772dc3b42a589a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ce72271c65e6926d1b79e2050fb4469
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 267e6270e56e2d44f8f953b6e80d618b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_helmet/_base/helmet_rope_thick.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_helmet$_base$materials$helmet_rope.mat.bundle

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2239101116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a607ae071b1a9abc960e313b66912dc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ba0db3436795591e4dde792aa44813f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44c2af6086084df44beaad5ff83876f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b72a2b24594464c43a2ed1d0cf397593, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87db17b44e0bdcb46b734e8f75cb1300, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98131cdcd85e8e847bf1901cd1b8e214, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Ancora/Triggers/trigger_arrive_beach.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_bonfire.prefab
+- Assets/Models/Ancora/Triggers/trigger_gather_fruits.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_madman.prefab
+- Assets/Models/Ancora/Triggers/trigger_fatigue_full.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_victims.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_firststep.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_lake.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_river.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_shipyard.prefab
+- Assets/Models/Ancora/Triggers/trigger_wash_yourself.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_eastlake.prefab
+- Assets/Models/Ancora/Triggers/trigger_depart_ancora.prefab
+- Assets/Models/Ancora/Triggers/trigger_sound_brachio_01.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_brachio.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_overpass.prefab
+- Assets/Models/Ancora/Triggers/trigger_phenaco_safari.prefab
+- Assets/Models/Ancora/Triggers/trigger_manipulate_start.prefab
+- Assets/Models/Ancora/Triggers/trigger_arrive_obstacle.prefab
+- Assets/Models/Ancora/Triggers/trigger_sound_brachio_02.prefab
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1776331022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 591262f6e57fb16b4ecd181a0c2aecf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/Macrauchenia/Materials/Megaloceros_xmas.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

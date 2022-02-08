@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4068797983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7662815ece8936ef3d45a533ee2069a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/event_bank.bnk.bytes
+Dependencies: []

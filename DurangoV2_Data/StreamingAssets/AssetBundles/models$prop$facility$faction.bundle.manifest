@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1084078371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d192a637f87127b283d25ffbadbbe90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f39bf4d3916810fd3208cde702e5c3c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/faction/faction_flag_01_chlorophylfourm.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_02_co.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_02_so.prefab
+- Assets/Models/Prop/facility/faction/faction_phonebooth_01.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_02_bonanza.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_01_pioneercouncil.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_02_x.prefab
+- Assets/Models/Prop/facility/faction/faction_phonebooth_01_snow.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_02_pioneercouncil.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_01_bonanza.prefab
+- Assets/Models/Prop/facility/faction/faction_flag_02_chlorophylfourm.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_side_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_crack_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$landmark$scoop$model$materials$scoop_ground_road_00.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$faction$model$materials$faction_flag_so.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$faction$model$materials$faction_flag_01_pioneercouncil.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$faction$model$materials$faction_phonebooth_01_ivy.mat.bundle

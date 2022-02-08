@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3619079898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1f3194456dd6fd761b603eba02cf886
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e13b7904b5a8fff73832d0af6b973fdc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a038bbcc889091247a53d558b5ce15c6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_helmet/Tricera/helmet_Chasmosaurus.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_helmet$_base$helmet_rope.prefab.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$_helmet$_base$materials$head_01_base.mat.bundle

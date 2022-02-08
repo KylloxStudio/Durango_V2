@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1517804108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2344246eb9bd958419eb45b1bfd5d24c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d29d48cae142843036a1e58cbd0d163
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/nature/tunnel_01_volcanic_a/preview/preview_tunnel_01_volcanic_a
+  1.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$preview_shovel$model$materials$preview.mat.bundle

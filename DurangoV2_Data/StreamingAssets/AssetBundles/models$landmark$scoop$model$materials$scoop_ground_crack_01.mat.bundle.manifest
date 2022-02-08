@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2988079946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c6b67f738f312627e9427cc0e2b254e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Landmark/Scoop/model/Materials/scoop_ground_crack_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

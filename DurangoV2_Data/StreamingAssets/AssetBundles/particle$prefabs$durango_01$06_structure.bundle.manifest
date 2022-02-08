@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 1331666496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a45db22f1d29b2b5c83f6be2a3450af3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6013e828afb59fd2f64e077311721985
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11c6fa3393a25a4409b6741e5d007fdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5eee7db4c542b3649a0062c110551c69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Structure_Crack_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Prop_Window_Bloom_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/z_backup_FX_Port_Find_03.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_backup.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Port_Find_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Crater_Find_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Destroy_Turret_Bow_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/z_(backup)FX_Port_Find_02.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Crater_Idle_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Structure_Warphole_Occupation_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/z_backup_FX_Port_Find_02.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Destroy_Catapult_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Structure_CompiPool_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Destroy_Warphole_Tuner_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Catapult_Cracked_01.prefab
+- Assets/Particle/Prefabs/Durango_01/06_Structure/FX_Structure_CandleSmoke_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_01_transparent.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02_nodistortion.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_structure_compipool_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_structure_compipool_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02_distortion.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_01_x2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_03_x2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$defence$model$materials$turret_catapult_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_flare_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3add.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$crater$model$materials$crater_effect_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_structure_brokenwarp_07.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_shock_02_transparent.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_shock_03_transparent.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_02_x2_always.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_port_find_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_crater_idle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_crater_idle_02.mat.bundle

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3283408022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e473c4b510ff93a8280efc1eed48cc59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/newyearsday/beanbag_compi/model/materials/beanbag_compi_yellow_mini.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$pattern.bundle

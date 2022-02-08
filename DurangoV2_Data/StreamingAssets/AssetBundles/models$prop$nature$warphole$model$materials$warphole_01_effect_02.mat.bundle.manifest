@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 472349957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c77d58583cad930475a2ed806888c749
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/nature/warphole/model/materials/warphole_01_effect_02.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

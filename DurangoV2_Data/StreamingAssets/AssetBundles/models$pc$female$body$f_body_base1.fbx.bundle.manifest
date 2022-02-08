@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 551635605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 933818dad5e6dc89c2d7e0a81f4d7868
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12d2b05760c7e6641c364636f65e22fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Body/f_body_base1.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_base1.mat.bundle

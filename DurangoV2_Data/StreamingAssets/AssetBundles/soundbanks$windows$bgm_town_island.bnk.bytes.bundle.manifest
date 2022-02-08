@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3881237245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9763e9c87ad883aec43697829f31463a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/bgm_town_island.bnk.bytes
+Dependencies: []

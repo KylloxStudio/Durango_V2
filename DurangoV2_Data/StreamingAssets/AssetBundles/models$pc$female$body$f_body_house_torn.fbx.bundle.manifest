@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 427446342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d2d4fc0b5b25eba0b515132971c46c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12d2b05760c7e6641c364636f65e22fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Body/f_body_house_torn.fbx
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_house_torn.mat.bundle

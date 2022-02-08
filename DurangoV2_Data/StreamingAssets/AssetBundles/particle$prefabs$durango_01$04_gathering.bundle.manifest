@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1558096419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e09c620a17e0f65a0e85306eaff3fdfd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6441f4c48b8293a736413520ea1a9530
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gather_Hit_02.prefab
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gathering_Iron_03.prefab
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gathering_Iron_02.prefab
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gathering_Jewel_01.prefab
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gather_M_01.prefab
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gathering_Iron_01.prefab
+- Assets/Particle/Prefabs/Durango_01/04_Gathering/FX_Gather_H_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_06_lava.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_etc$fx_etc_lava_light_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_twinkle_01.mat.bundle

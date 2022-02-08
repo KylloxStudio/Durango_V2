@@ -1,0 +1,174 @@
+ManifestFileVersion: 0
+CRC: 3482053959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb8f14a008d78aba7e0cb461df8c03bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b95142c311a6e3269376fbdf5b2e7f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6d2e2a1aafae384b9645a7ceee98c53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d2ca56facb32004481137bcb40522e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/housing/mat_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_08_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/table_01_w_b.prefab
+- Assets/Models/Prop/furniture_warp/housing/wheelchair_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/ladder_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/prime_sunbed_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/picnic_set_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/chair_01_w_d_high.prefab
+- Assets/Models/Prop/furniture_warp/housing/velvet_rope_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/pool_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/pool_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/prime_sunbed_03_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_03_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_chair_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/fireplace_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/curtain_03_w_halloween.prefab
+- Assets/Models/Prop/furniture_warp/housing/curtain_01_w_hospital.prefab
+- Assets/Models/Prop/furniture_warp/housing/velvet_rope_03_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/sunbed_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/dubiza_pool_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/bed_cherry_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_stool_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/outdoor_table_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/sofa_02_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_frame_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_05_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/chair_01_w_c_high.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_table_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/chair_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/velvet_rope_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/shelf_02.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_07_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/ladder_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/vase_cherry_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/chair_01_w_b_high.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_frame_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/chair_02_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/red_carpet_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/curtain_01_w_halloween.prefab
+- Assets/Models/Prop/furniture_warp/housing/table_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/bed_02_w_halloween.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_unicon_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_04_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_chair_03_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/toilet_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/airmat_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/shelf_01.prefab
+- Assets/Models/Prop/furniture_warp/housing/prime_sunbed_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/kotatsu_01_w_b.prefab
+- Assets/Models/Prop/furniture_warp/housing/sofa_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/fireplace_01_w_burning.prefab
+- Assets/Models/Prop/furniture_warp/housing/kotatsu_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/compi_pool_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/sofa_01_w_b.prefab
+- Assets/Models/Prop/furniture_warp/housing/table_03.prefab
+- Assets/Models/Prop/furniture_warp/housing/table_02_w_b.prefab
+- Assets/Models/Prop/furniture_warp/housing/sunbed_01_w_b.prefab
+- Assets/Models/Prop/furniture_warp/housing/table_cherry_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_06_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/chair_03.prefab
+- Assets/Models/Prop/furniture_warp/housing/sofa_02_w_c.prefab
+- Assets/Models/Prop/furniture_warp/housing/art_chair_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/tube_02_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/outdoor_table_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/table_02_w_a.prefab
+- Assets/Models/Prop/furniture_warp/housing/curtain_02_w_halloween.prefab
+- Assets/Models/Prop/furniture_warp/housing/bed_02_w_hospital.prefab
+- Assets/Models/Prop/furniture_warp/housing/bed_01_w.prefab
+- Assets/Models/Prop/furniture_warp/housing/sofa_02_w_d.prefab
+- Assets/Models/Prop/furniture_warp/housing/sofa_02_w_b.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$campfire_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3_flow2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$dubiza$model$materials$pool_set_01_shadow.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$dubiza$model$materials$pool_set_01_d.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$dubiza$model$materials$pool_set_01_c.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$dubiza$model$materials$pool_set_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$dubiza$model$materials$pool_set_01_b.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_unicon_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_08.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_06.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$outdoor_table_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_07.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$torchfire01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$newyearsday$beanbag_compi$model$materials$beanbag_compi_green_mini.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$newyearsday$beanbag_compi$model$materials$beanbag_compi_pink_mini.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$newyearsday$beanbag_compi$model$materials$beanbag_compi_yellow_mini.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_01_transparent.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02_nodistortion.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$chair_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01_onprop.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$compi_pool_waterdrop_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_structure_compipool_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_structure_compipool_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02_distortion.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$furniture_museum_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$table_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$compi_pool_water_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$tube_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$fireplace_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$ladder_01_steel.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$prime_sunbed_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$shelf_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$sofa_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$sofa_02_w_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$table_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gathering$fx_trees_cherry_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$housing$model$materials$velvet_rope_01.mat.bundle

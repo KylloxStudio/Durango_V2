@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3944799546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb3ceddef8874b9448ede1acc0df9a59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/sfx_misc.bnk.bytes
+Dependencies: []

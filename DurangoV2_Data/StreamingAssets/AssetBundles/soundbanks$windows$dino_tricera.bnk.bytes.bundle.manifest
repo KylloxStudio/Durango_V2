@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1352581944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce92c909fc72e0c1879da87b9e984325
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/dino_tricera.bnk.bytes
+Dependencies: []

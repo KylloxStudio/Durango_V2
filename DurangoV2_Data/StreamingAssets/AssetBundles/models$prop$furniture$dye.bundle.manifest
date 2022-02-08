@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1964971691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 157383f02c5c70d178e7816c0ceb8a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c09d90272369fe70c9b408e443e1a2a6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/dye/dye_02_color.prefab
+- Assets/Models/Prop/furniture/dye/dye_03_color.prefab
+- Assets/Models/Prop/furniture/dye/dye_01.prefab
+- Assets/Models/Prop/furniture/dye/dye_03.prefab
+- Assets/Models/Prop/furniture/dye/dye_rack_01.prefab
+- Assets/Models/Prop/furniture/dye/dye_01_color.prefab
+- Assets/Models/Prop/furniture/dye/dye_rack_01_color.prefab
+- Assets/Models/Prop/furniture/dye/dye_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$dye$model$materials$dye_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$dye$model$materials$dye_01_color.mat.bundle

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 830993400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e596809830a525a5eb50527e24a78623
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Landmark/Static/model/Materials/ST_train_wreckage_01_railroad.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

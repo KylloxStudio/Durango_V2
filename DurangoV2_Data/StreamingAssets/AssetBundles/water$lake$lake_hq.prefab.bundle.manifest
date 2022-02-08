@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3924770475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d780b06004f5e98b7b2c83366954c89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 404c222dcf7995f065e4f626a2445700
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8cd879406538ee84484b6221b8744c04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Water/Lake/Lake_HQ.prefab
+Dependencies: []

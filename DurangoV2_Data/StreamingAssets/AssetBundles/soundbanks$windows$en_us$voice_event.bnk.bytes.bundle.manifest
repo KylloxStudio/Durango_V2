@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 315181684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81f9a6f0a561496a1158003d0dfb04b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/en_US/voice_event.bnk.bytes
+Dependencies: []

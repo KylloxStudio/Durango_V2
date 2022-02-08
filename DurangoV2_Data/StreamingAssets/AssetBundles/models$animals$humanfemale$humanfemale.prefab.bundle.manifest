@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3315868257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35f62e044045cd465411606f06113331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be354a835f71273c069287c2a284801b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a23c62042e8ad14d9d686a17380fb2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71cac92162d17584891cd66bb6c6d334, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56f8bba1b1288fb4c84bb828dda74d66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09d538937ce77d44c9a54763ce8a4524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11620234b0f1cab49a88df15703c6a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be8877c4f4ebfa749a1d4bb53f8a1d59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ff3cd19b90546b4cbcc41be5393721c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e44d8ccd772e03b409a65df521e0311e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/HumanFemale/HumanFemale.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$humanfemale$humanfemale_framework.asset.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_base1.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$head$f_head_chef_02.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_long_perm.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_base1.mat.bundle

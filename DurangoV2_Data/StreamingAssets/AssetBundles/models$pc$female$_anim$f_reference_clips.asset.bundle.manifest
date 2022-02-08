@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1533032229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c35659a0adc9512d1ecffbf84aea6768
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0399aa4a08eddff7367d4222b564334c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d2bed60bb2d1dd4b80262b25f2551df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/_Anim/f_reference_clips.asset
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3734233866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6526587a748052ec8e90292e0e126b56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/storage/model/materials/icekiln_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

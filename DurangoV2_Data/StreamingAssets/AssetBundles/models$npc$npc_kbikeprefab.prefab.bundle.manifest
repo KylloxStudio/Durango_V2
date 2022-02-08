@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 120124175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 572c7bd871c950a971f9dc1ffed12e60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d42434f13c89e21172a2ce80e6d3993
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45cd4240fbb595e459bd1213a4cdb123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71cac92162d17584891cd66bb6c6d334, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11620234b0f1cab49a88df15703c6a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aba14494891a2bb46ae3254386418d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1c00a1525440f9439ec9978bdbc4226, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5470b53ba2a265149b72f692e4d933d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e44d8ccd772e03b409a65df521e0311e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/NPC/NPC_KBikePrefab.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$npc$materials$npc_k_skin2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$npc$materials$npc_k_hair2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$npc$materials$npc_k_body.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_spark_particle_01.mat.bundle

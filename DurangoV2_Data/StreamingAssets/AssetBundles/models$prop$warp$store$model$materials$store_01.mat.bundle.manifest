@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4191680868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84ac9102d055d68039bc2954c8c7d4e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/warp/store/model/Materials/store_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 1314137519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e3bf9fb0497cb7117f6aa016256fd05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 01507e1e2599327c4d548e4c1592cf2a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/module/wall/wall_02_stone.prefab
+- Assets/Models/Prop/module/wall/wall_01_woodplank_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_stone.prefab
+- Assets/Models/Prop/module/wall/wall_03_basalt.prefab
+- Assets/Models/Prop/module/wall/wall_02_baraque_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_wood.prefab
+- Assets/Models/Prop/module/wall/wall_03_basalt_door.prefab
+- Assets/Models/Prop/module/wall/wall_02_stonetile_door.prefab
+- Assets/Models/Prop/module/wall/wall_02_stone_window.prefab
+- Assets/Models/Prop/module/wall/wall_02_wood.prefab
+- Assets/Models/Prop/module/wall/wall_01_dirt_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_woodplank_window.prefab
+- Assets/Models/Prop/module/wall/wall_02_wood_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_wood_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_straw_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_bone_window.prefab
+- Assets/Models/Prop/module/wall/wall_03_basalt_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_bone.prefab
+- Assets/Models/Prop/module/wall/wall_02_baraque.prefab
+- Assets/Models/Prop/module/wall/wall_01_steel.prefab
+- Assets/Models/Prop/module/wall/wall_02_wood_window.prefab
+- Assets/Models/Prop/module/wall/wall_02_stonetile_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_straw_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_wood_door.prefab
+- Assets/Models/Prop/module/wall/wall_02_baraque_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_stone_door.prefab
+- Assets/Models/Prop/module/wall/wall_03_granite.prefab
+- Assets/Models/Prop/module/wall/wall_01_stone_window.prefab
+- Assets/Models/Prop/module/wall/wall_03_stone.prefab
+- Assets/Models/Prop/module/wall/wall_01_woodplank.prefab
+- Assets/Models/Prop/module/wall/wall_03_granite_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_dirt.prefab
+- Assets/Models/Prop/module/wall/wall_03_stone_window.prefab
+- Assets/Models/Prop/module/wall/wall_03_stone_door.prefab
+- Assets/Models/Prop/module/wall/wall_02_stone_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_steel_door.prefab
+- Assets/Models/Prop/module/wall/wall_02_stonetile.prefab
+- Assets/Models/Prop/module/wall/wall_01_steel_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_straw.prefab
+- Assets/Models/Prop/module/wall/wall_03_granite_door.prefab
+- Assets/Models/Prop/module/wall/wall_01_dirt_window.prefab
+- Assets/Models/Prop/module/wall/wall_01_bone_door.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_leaf.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$pillar_01_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$floor_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$pillar_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$pillar_01_steel.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_fur.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_leather.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_woodplank.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_01_tile.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$roof_02_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_baraque.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_wall_01_ao.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_dirt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_steel.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_stone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_01_woodplank.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_02_stone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_02_stonetile.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_02_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_03_basalt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_03_granite.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$wall_03_stone.mat.bundle

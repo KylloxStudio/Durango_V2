@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3330122565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e2e8ff8363b7b32da6902e941105128
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/bgm_ancora.bnk.bytes
+Dependencies: []

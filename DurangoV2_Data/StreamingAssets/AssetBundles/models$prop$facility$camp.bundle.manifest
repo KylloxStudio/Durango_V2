@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 353932083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49a9d9c17b6ffbfb56ed29c59be2d898
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45be7d56c3a2c1752305bae299c8f1d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45cd4240fbb595e459bd1213a4cdb123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16e47d901ecd6b843ab97cce699942a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d2ca56facb32004481137bcb40522e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/camp/camp_warphole_01.prefab
+- Assets/Models/Prop/facility/camp/camp_square_01_sunset.prefab
+- Assets/Models/Prop/facility/camp/camp_communication_station_01_volcanic.prefab
+- Assets/Models/Prop/facility/camp/seol_camp_rest_02.prefab
+- Assets/Models/Prop/facility/camp/halloween_board_01.prefab
+- Assets/Models/Prop/facility/camp/camp_warehouse_01.prefab
+- Assets/Models/Prop/facility/camp/camp_rest_01_volcanic.prefab
+- Assets/Models/Prop/facility/camp/xmas_board_01.prefab
+- Assets/Models/Prop/facility/camp/camp_communication_station_01.prefab
+- Assets/Models/Prop/facility/camp/camp_board_01_volcanic.prefab
+- Assets/Models/Prop/facility/camp/camp_board_01.prefab
+- Assets/Models/Prop/facility/camp/seol_camp_communication_station_01.prefab
+- Assets/Models/Prop/facility/camp/camp_rest_02_b.prefab
+- Assets/Models/Prop/facility/camp/seol_camp_warehouse_01.prefab
+- Assets/Models/Prop/facility/camp/camp_workspace_01.prefab
+- Assets/Models/Prop/facility/camp/camp_rest_02_sunset.prefab
+- Assets/Models/Prop/facility/camp/camp_communication_station_01_sunset.prefab
+- Assets/Models/Prop/facility/camp/halloween_warehouse_01.prefab
+- Assets/Models/Prop/facility/camp/camp_warehouse_01_volcanic.prefab
+- Assets/Models/Prop/facility/camp/camp_warehouse_01_c.prefab
+- Assets/Models/Prop/facility/camp/camp_square_01.prefab
+- Assets/Models/Prop/facility/camp/camp_rest_01.prefab
+- Assets/Models/Prop/facility/camp/camp_communication_station_01_b.prefab
+- Assets/Models/Prop/facility/camp/camp_square_01_fire.prefab
+- Assets/Models/Prop/facility/camp/camp_square_01_b.prefab
+- Assets/Models/Prop/facility/camp/camp_communication_station_01_c.prefab
+- Assets/Models/Prop/facility/camp/camp_warehouse_01_b.prefab
+- Assets/Models/Prop/facility/camp/xmas_communication_station01.prefab
+- Assets/Models/Prop/facility/camp/halloween_rest_01.prefab
+- Assets/Models/Prop/facility/camp/camp_rest_02.prefab
+- Assets/Models/Prop/facility/camp/camp_board_01_b.prefab
+- Assets/Models/Prop/facility/camp/seol_camp_board_01.prefab
+- Assets/Models/Prop/facility/camp/xmas_warehouse_01.prefab
+- Assets/Models/Prop/facility/camp/halloween_communication_station_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$smoke
+  1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$campfire_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/prefabs$lightmask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$torchfire01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_site_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$faction$model$materials$faction_flag_so.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01_onprop.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$xmas$gift_box$model$materials$gift_box_set.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$xmas$snowman$model$materials$snowman.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fire_smoke_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_set_01_b.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_set_01_volcanic.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_platform_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_set_01_b_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$scaffolding$model$materials$scaffolding_01_1x1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$light$model$materials$torch_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_03_campfire.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$clan_warphole_01_set.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$clan_warphole_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$warphole$model$materials$warphole_01_effect_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$warphole$model$materials$warphole_01_effect_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$warphole$model$materials$warphole_01_effect_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$halloween_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$light$model$materials$pumpkin_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$light$model$materials$pumpkin_lantern.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$seol_camp_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$camp$model$materials$camp_xmas01.mat.bundle

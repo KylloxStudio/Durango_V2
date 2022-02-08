@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1343562855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b11ceec775066e24d8ecf7d5a5b4e92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/compso_paper_follower.bnk.bytes
+Dependencies: []

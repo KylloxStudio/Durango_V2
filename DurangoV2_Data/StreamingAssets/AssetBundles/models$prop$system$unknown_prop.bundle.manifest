@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3143943254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6915d90f0335d9fb1afb6f81b8503e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c89b7f22503d44414d2f3920fe2ef867
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/system/unknown_prop/unknown_prop_01.prefab
+- Assets/Models/Prop/system/unknown_prop/unknown_prop_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

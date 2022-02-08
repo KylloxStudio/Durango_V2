@@ -1,0 +1,150 @@
+ManifestFileVersion: 0
+CRC: 4233201927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f506471bb0fda2282fd5ddf82b6d6c8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b51851528488a6db1f9994cc338838f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45cd4240fbb595e459bd1213a4cdb123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42179e1bd7a1c814e9e2b89839ae63d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_01_Dash.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_03_Dust_long_Edit.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Decal_02_R.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Ankylosaurus_Taunt_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Dust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_Ring_01_Sand.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_01_Dash_long.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Decal_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_05_Dust_Edit.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_04_Stomp_Edit.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_02_Brown.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_BubleDrop_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Attack_Lizard_poisonous_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_03_Dust_Edit.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_FootDust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_05_Dust.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Eat_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Decal_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_BubleHit_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Dust_Wheel_01_R.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_07.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_Inherit_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Decal_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_04_Stomp_big.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Decal_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Howlling_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Dust_Impact_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Die_01_Brown.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_foot_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_03_Dust.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_90Degree_Dust_01_Brown.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_Impact_01_Gray.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_04.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_DamageBlow_Decal_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_Ring_01_Gray.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Dust_04.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Attack_Spit_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_03_Dust_Wpos.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Tick_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_90Degree_Dust_01_Gray.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_FootDust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Dust_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_05_Dust_Inv.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Die_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Dust_Wheel_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Decal_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_FootDust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_04_Stomp.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Buble_Stay_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Attack_Spit_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_02_Swing.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Dust_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Buble_Stay_04.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Attack_Skunkodus_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Tick_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Allosaurus_Attack_03_Dust_long.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_04_Brown.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_foot_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_Impact_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Dust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Attack_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Swing_L_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Eat_05.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_06.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Decal_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Die_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_Ring_01_Brown.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Horseshoecrab_Swing_R_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Die_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Andrew_Saliva_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Decal_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Megaloceros_Dust_05.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_90Degree_Dust_01_DarkBrown.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Attack_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Andrew_Saliva_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Dust_Impact_03.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Dust_04_Gray.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Dust_Wheel_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_Attack_Spit_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Dust_Inherit_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_FootDust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Decal_02_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Attack_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaus_Decal_01_Gray.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Brachio_Junior_Die_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Parasaurolophus_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Brachio_Junior_Die_02.prefab
+- Assets/Particle/Prefabs/Durango_01/03_Dinosaurs/FX_Dinosaurs_FootDust_01_Brown.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_watersplat_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_bloodsplaater_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$dust_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_01$fx_state_poison_04.mat.bundle

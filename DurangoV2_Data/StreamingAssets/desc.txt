@@ -1,0 +1,1 @@
+AK: Do not delete the folder (StreamingAssets) of this file. The folder is required in the Wwise Unity Integration to avoid DirectoryNotFoundException on Unity Editor for Windows when there is no such a folder in the active Unity project.

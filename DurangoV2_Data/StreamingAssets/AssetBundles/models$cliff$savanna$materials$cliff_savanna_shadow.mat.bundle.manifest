@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3254958006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 412507e081210c694c807f96ada4c9f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Cliff/savanna/Materials/cliff_savanna_shadow.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
