@@ -6,7 +6,7 @@ This is Kyllox's New Durango. I'm developing Durango as a solo play game. **Main
 - _Pet functions_
 - _Combat Systems_
 - _Sailing Systems (Developing)_
-- _Auto Update_
+- _Automatic Update_
 - _And Mores..._
 
 WebSite: [_https://durango.kyllox.studio_](https://durango.kyllox.studio)
