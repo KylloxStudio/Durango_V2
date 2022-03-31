@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2317128422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14a3b659fae33317b388aa3f61b8de6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a9d000c67bb3b371a8c4e0fe8b14a8f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/_saddle/Parasaurolophus/saddle_Hadrosaurus_tank.prefab
+Dependencies: []

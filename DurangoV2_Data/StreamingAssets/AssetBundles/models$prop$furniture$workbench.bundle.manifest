@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 1795696572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb7f62cf16f63aff76f9e78b08117650
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e58ccb52ce8aa6e168265014573a2b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16e47d901ecd6b843ab97cce699942a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d2ca56facb32004481137bcb40522e4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/workbench/worktable_04_wood.prefab
+- Assets/Models/Prop/furniture/workbench/loom_02.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_01_entrust_cap.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_03_burning.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_01_entrust_leather.prefab
+- Assets/Models/Prop/furniture/workbench/furnace_01_entrust_pot.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_04_bone.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_01_burning.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_05_wood.prefab
+- Assets/Models/Prop/furniture/workbench/medicine_table_01.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_01.prefab
+- Assets/Models/Prop/furniture/workbench/furnace_01.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_03_bone.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_01_wood.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_02_wood.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_02_entrust_rubber.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_04_volcanic.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_02_entrust_bag.prefab
+- Assets/Models/Prop/furniture/workbench/loom_01.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_weapon_01_bone.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_01.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_01_entrust_rubber.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_04_volcanic_burning.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_weapon_01_wood.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_01_burning.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_gem_01_wood.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_02_bone.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_05_bone.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_03_wood.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_03.prefab
+- Assets/Models/Prop/furniture/workbench/loom_01_silk.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_01_entrust_bag.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_01.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_03_burning.prefab
+- Assets/Models/Prop/furniture/workbench/medicine_table_entrust_01.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_02.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_02_burning.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_02.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_02_burning.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_clothes_01_wood.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_cap_01.prefab
+- Assets/Models/Prop/furniture/workbench/furnace_01_burning.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_entrust_grill_01.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_03.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_clothes_01_bone.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_04_volcanic.prefab
+- Assets/Models/Prop/furniture/workbench/loom_02_silk.prefab
+- Assets/Models/Prop/furniture/workbench/kiln_04_volcanic_entrust_cap.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_02.prefab
+- Assets/Models/Prop/furniture/workbench/dry_rack_02_entrust_leather.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_entrust_pot_01.prefab
+- Assets/Models/Prop/furniture/workbench/worktable_01_bone.prefab
+- Assets/Models/Prop/furniture/workbench/kitchen_04_volcanic_burning.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_etc$fx_etc_lava_light_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$campfire_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/prefabs$lightmask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$torchfire01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01_onprop.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3add.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$dry_rack_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$furnace_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kiln_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kiln_01_cap.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kiln_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kitchen_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kitchen_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kitchen_04_volcanic_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$loom_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$medicine_table_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$worktable_01_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$worktable_01_wood.mat.bundle

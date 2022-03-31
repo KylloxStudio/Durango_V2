@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1762495069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c145f5d6e3b7e80eabcfd1e506a3da8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/horseshoecrab.bnk.bytes
+Dependencies: []

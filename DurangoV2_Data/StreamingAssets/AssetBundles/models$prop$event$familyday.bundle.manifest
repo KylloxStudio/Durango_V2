@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 467605554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a89be2d709b9a64568c989254ade0f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd60f1a696b3b6dad6789f668e6e306b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/familyday/fence_01_carnation.prefab
+- Assets/Models/Prop/event/familyday/rocking_horse_02.prefab
+- Assets/Models/Prop/event/familyday/rocking_horse_01.prefab
+- Assets/Models/Prop/event/familyday/fence_01_carnation_wall_b.prefab
+- Assets/Models/Prop/event/familyday/rocking_horse_04.prefab
+- Assets/Models/Prop/event/familyday/fence_01_rose_wall_b.prefab
+- Assets/Models/Prop/event/familyday/fence_01_carnation_wall_a.prefab
+- Assets/Models/Prop/event/familyday/rocking_horse_03.prefab
+- Assets/Models/Prop/event/familyday/fence_01_rose.prefab
+- Assets/Models/Prop/event/familyday/fence_01_rose_wall_a.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_01_straw.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_site_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$familyday$model$materials$fence_01_carnation.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$familyday$model$materials$rocking_horse_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$familyday$model$materials$rocking_horse_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_02_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_02_stone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$fence$model$materials$fence_site_02.mat.bundle

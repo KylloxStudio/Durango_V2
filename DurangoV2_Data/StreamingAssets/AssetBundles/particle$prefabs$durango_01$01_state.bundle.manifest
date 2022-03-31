@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2995572494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bd322957f9a30469998ef3a16576bc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6441f4c48b8293a736413520ea1a9530
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/01_State/FX_State_Dirty_saliva_01_Loop.prefab
+- Assets/Particle/Prefabs/Durango_01/01_State/FX_State_Poison_attacked_01_Loop.prefab
+- Assets/Particle/Prefabs/Durango_01/01_State/FX_State_Stink_01_Loop.prefab
+- Assets/Particle/Prefabs/Durango_01/01_State/FX_State_Bleeding_persist_01_Loop.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

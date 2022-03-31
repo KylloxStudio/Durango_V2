@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3703827017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b220796fe44cbb653d0d34e1a4dd62c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/dino_megalo.bnk.bytes
+Dependencies: []

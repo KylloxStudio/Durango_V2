@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 1970211608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a47095afd6317dd6df5730e548fc422
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5823d59e10af22fc2d4969ffd582427
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbf77d5cb5eb0b4fb41d4004a16fb1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ff3cd19b90546b4cbcc41be5393721c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/etc/well_01_dirt.prefab
+- Assets/Models/Prop/furniture/etc/floor_board_animation_01.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_male_c.prefab
+- Assets/Models/Prop/furniture/etc/statue_02_c.prefab
+- Assets/Models/Prop/furniture/etc/statue_01_settler.prefab
+- Assets/Models/Prop/furniture/etc/well_04_dirt.prefab
+- Assets/Models/Prop/furniture/etc/statue_02_d.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_female_a.prefab
+- Assets/Models/Prop/furniture/etc/floor_message_01_leather.prefab
+- Assets/Models/Prop/furniture/etc/pot_02_rose.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_female_e.prefab
+- Assets/Models/Prop/furniture/etc/tradingpost_01.prefab
+- Assets/Models/Prop/furniture/etc/statue_01_explorer.prefab
+- Assets/Models/Prop/furniture/etc/well_03_rock_granite.prefab
+- Assets/Models/Prop/furniture/etc/pot_04_fl20.prefab
+- Assets/Models/Prop/furniture/etc/floor_message_01_wood.prefab
+- Assets/Models/Prop/furniture/etc/statue_02_b.prefab
+- Assets/Models/Prop/furniture/etc/statue_02_a.prefab
+- Assets/Models/Prop/furniture/etc/stage_01_wood.prefab
+- Assets/Models/Prop/furniture/etc/board_message_02.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_male_d.prefab
+- Assets/Models/Prop/furniture/etc/pot_01.prefab
+- Assets/Models/Prop/furniture/etc/rug_01_leather_andrew.prefab
+- Assets/Models/Prop/furniture/etc/clan_board_message_01.prefab
+- Assets/Models/Prop/furniture/etc/board_message_02_leather.prefab
+- Assets/Models/Prop/furniture/etc/pot_03_sunflower.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_female_c.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_female_d.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_male_f.prefab
+- Assets/Models/Prop/furniture/etc/statue_01_hunter.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_male_b.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_male_a.prefab
+- Assets/Models/Prop/furniture/etc/board_animation_02.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_female_b.prefab
+- Assets/Models/Prop/furniture/etc/direction_sign_01.prefab
+- Assets/Models/Prop/furniture/etc/well_03_dirt.prefab
+- Assets/Models/Prop/furniture/etc/well_02_dirt.prefab
+- Assets/Models/Prop/furniture/etc/floor_message_01_paper.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_male_e.prefab
+- Assets/Models/Prop/furniture/etc/board_animation_01.prefab
+- Assets/Models/Prop/furniture/etc/board_message_01.prefab
+- Assets/Models/Prop/furniture/etc/board_message_01_leather.prefab
+- Assets/Models/Prop/furniture/etc/shelf_01_wood.prefab
+- Assets/Models/Prop/furniture/etc/well_03_rock_basalt.prefab
+- Assets/Models/Prop/furniture/etc/mannequin_01_female_f.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$f_body_mannequin.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$m_body_mannequin.fbx.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$site$model$materials$site_01_1x1_dirt_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02_nodistortion.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$well_01_dirt.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01_onprop.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$drawing_board.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$board_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$board_01_leather.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$floor_board_01_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$drawing_board_floor.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_mannequin.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_mannequin.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$pot_01_sunflower.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$pot_01_sunflower_alpha.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$pot_case.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$statue_02_a1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$well_01_water.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$housing$model$materials$bath_01_water.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_01$fx_state_poison_04.mat.bundle

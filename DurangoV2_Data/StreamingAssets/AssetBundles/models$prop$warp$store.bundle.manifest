@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3881928425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ff2b0a1790d53b11a640d8dc3bb4b01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 518010cc7f01718a1cdaed52aa0dd406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/warp/store/store_kiosk_03.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_07.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_08.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_02.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_06.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_05.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_01.prefab
+- Assets/Models/Prop/warp/store/store_refrigerator_01.prefab
+- Assets/Models/Prop/warp/store/store_table_01.prefab
+- Assets/Models/Prop/warp/store/store_kiosk_04.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$warp$store$model$materials$store_01.mat.bundle

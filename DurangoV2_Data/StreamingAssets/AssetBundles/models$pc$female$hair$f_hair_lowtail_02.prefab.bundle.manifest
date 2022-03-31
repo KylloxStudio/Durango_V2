@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2463252467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ea35424a6bf99928e90f3cef39a77df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5a3e3037382dc7e75bc0af7ee806e6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Hair/f_hair_lowtail_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_lowtail.mat.bundle

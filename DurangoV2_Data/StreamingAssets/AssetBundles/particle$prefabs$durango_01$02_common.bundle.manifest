@@ -1,0 +1,121 @@
+ManifestFileVersion: 0
+CRC: 1089106948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3002d94c3c6a104520b2a1333d16d7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c267ace39e16efb28983a6ecce12668
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19531db0198e24f4c9157367925e4acd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11c6fa3393a25a4409b6741e5d007fdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42179e1bd7a1c814e9e2b89839ae63d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_DeadSign_02_Big.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_03_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GetTstone_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_BalloonCloud_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_DeadSign_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/TrailTest.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GetTstone_03.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_FatigueRecovery_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Dust_Die_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Entrust_Prop_Finish_02_backup.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_DrinkFast_Blue_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Taming_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Moisture_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_DeadSign_03_Big.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_SkillReset.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_04_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_03.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GroundClickEffect_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Laboratory_Working_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Unknown_Prop_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Dust_Die_03.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_LevelUP_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Music_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Attack_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Dust_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_01_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Drink_Blue_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GetTstone_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_05_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Dust_Die_04.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Moisture_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GetWarpgem_03.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_MoodStart_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Entrust_Prop_Finish_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_06_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_EatingFood_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GetWarpgem_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Unknown_Prop_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_LevelUp_Pet.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Hit_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Unknown_Prop_03.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_02_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Moisture_03.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Hit_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_GetWarpgem_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_LevelUP_01_low.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_DrinkFast_Blue_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_CPR_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Dust_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Sprinkler_01.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_DeadSign_02_Small.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Taming_02.prefab
+- Assets/Particle/Prefabs/Durango_01/02_Common/FX_Common_Paper_Dust_Die_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_flare_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_bloodsplaater_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_twinkle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_01$defaultmaterial.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_01_x2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_03_x2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_structure$fx_port_find_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_gathering$fx_trees_cherry_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_farm_water_02.mat.bundle

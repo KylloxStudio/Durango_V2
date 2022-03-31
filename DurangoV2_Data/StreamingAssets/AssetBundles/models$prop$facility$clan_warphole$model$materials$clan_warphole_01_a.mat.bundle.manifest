@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 922150675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92d0f070d3ba24a7c3f81ad7f42856cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/clan_warphole/model/materials/clan_warphole_01_a.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

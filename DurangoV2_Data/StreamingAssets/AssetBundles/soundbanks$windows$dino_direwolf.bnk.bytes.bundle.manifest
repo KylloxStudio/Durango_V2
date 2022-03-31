@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3921555325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b393d6e880291d256a9a861cf0b0bcba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/dino_direwolf.bnk.bytes
+Dependencies: []

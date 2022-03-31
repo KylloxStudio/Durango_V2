@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3843203006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2d777913c1f415b69d7ebf04d3a8b84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 610b509e0a29b93ded95068d606fe28b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/school/school_lecturetable/school_locker_02.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_locker_03.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_lecturetable_02.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_chair_01.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_desk_01_set.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_desk_02_set.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_lecturetable_01.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_locker_01.prefab
+- Assets/Models/Prop/event/school/school_lecturetable/school_desk_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_lecturetable.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_desk.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$school$school_lecturetable$model$materials$school_locker.mat.bundle

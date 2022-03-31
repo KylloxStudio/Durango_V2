@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1948027113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dc33e2f69ae5be9334e3fee92b7ce1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eb7ee1a3935171665a0322c070433c63
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: daa6407018e60f546896c1a2f536fd1a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Water/Ocean/Ocean_HQ.prefab
+Dependencies: []

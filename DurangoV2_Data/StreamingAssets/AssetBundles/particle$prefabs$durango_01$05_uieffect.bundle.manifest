@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2698585260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a35140f3be3111ae9d05b42a3166cf6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5f54bbb181d68bbde38ff923acc13a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3808d603761b0e4ca13b4fa30d8af47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42179e1bd7a1c814e9e2b89839ae63d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_PartsBroken_Brain_01.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_PartsBroken_Leg_01.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_PartsBroken_Horn_01.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_Catapult_01_Short.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_PartsBroken_Teeth_01.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_PartsBroken_Viscus_01.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_PartsBroken_Tail_01.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_SkillActivated_Common_01_working.prefab
+- Assets/Particle/Prefabs/Durango_01/05_UIEffect/FX_UIEffect_Catapult_01_Long.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2979345372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca044596a27e12fe014a0a5d9b8344f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1b42a64015103e085f05ac3187a751d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Hair/m_hair_punk_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_punk.mat.bundle

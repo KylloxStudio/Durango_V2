@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3925571044
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32597a9d65e2fe9b154f49fe2ca4edab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/nature/crater/model/materials/crater_effect_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

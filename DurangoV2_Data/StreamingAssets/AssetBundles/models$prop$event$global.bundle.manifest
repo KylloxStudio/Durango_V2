@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 695101252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83239ab3d90f01910b17380789049ca2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf3f348e2267d190e6df40cbb42919b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/event/global/worldmap_03.prefab
+- Assets/Models/Prop/event/global/worldmap_04.prefab
+- Assets/Models/Prop/event/global/globe_01.prefab
+- Assets/Models/Prop/event/global/worldmap_02.prefab
+- Assets/Models/Prop/event/global/worldmap_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$global$model$materials$worldmap_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$global$model$materials$worldmap_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$event$global$model$materials$worldmap_03.mat.bundle

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1926400978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4c540e934b9528c65307c856344ad6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1b42a64015103e085f05ac3187a751d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Body/f_body_school_cardigan.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_school_cardigan.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$body$materials$f_body_nude01-texture1.mat.bundle

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2906189838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d18443e79630e5fee49e2105f07355e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb8f112d43020328a4cf416fc2e56535
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7e7031c0b096fa49b268d94216aad95, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/nature/tree_island/preview/preview_al16.prefab
+- Assets/Models/Prop/nature/tree_island/preview/preview_as11.prefab
+- Assets/Models/Prop/nature/tree_island/preview/preview_fr21_01.prefab
+- Assets/Models/Prop/nature/tree_island/preview/preview_sh07_beach.prefab
+- Assets/Models/Prop/nature/tree_island/preview/preview_as18.prefab
+- Assets/Models/Prop/nature/tree_island/preview/preview_fr21_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$nature$tree_island$model$materials$preview_tree_island_01.mat.bundle

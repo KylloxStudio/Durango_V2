@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2542773167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee967d07ee3baf9ab2e77a9dd0b19218
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/bgm_unstable_island.bnk.bytes
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2216437672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92f5bea5247baaa56ba1d1f8ad531079
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ce716e66d0159eb873a3e3e4295a9c2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Head/m_head_settler_02.fbx
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

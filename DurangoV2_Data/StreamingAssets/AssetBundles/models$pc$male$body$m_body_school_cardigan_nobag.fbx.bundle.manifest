@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4123412263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f58fcdc3e042b80b9df7ac76ab5e616e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12d2b05760c7e6641c364636f65e22fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Body/m_body_school_cardigan_nobag.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_nude01-texture1.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$body$materials$m_body_school_cardigan_nobag.mat.bundle

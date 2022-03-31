@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3998390958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c437ab18df3beebb7c4348ff2ff4063b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a159d1946a42d0e067ed357f50811b3b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be8877c4f4ebfa749a1d4bb53f8a1d59, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/Brachio/Brachio_framework.asset
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$animals$brachio$materials$brachio-texture1.mat.bundle

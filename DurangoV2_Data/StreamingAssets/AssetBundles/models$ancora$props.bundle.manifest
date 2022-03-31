@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1485432715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a2ab374f90ec30e261c5667cf43d0a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a840b6877834a9bad5e09d94ae57e1d5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec6cd0d3c5c31e34985ab8752c1406f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04d1b7c9e9a19a24ab67123a43c6544b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Ancora/Props/raft_big_underconstruct.prefab
+- Assets/Models/Ancora/Props/thornbush.prefab
+- Assets/Models/Ancora/Props/raft_big.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$ancora$props$materials$raft_big_sail.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$ancora$props$materials$raft_big_body.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$ancora$props$materials$prop_shadow_ao_ancora.mat.bundle

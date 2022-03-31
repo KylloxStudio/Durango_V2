@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 2302349862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59999fbc4620b8e8d92198caa625fa3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04155bc1f3658dd2d60d904f434c91f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/mood_props/flashy_chair_01_recliner.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_bed_04_rock_basalt.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_bed_04_rock_granite.prefab
+- Assets/Models/Prop/furniture/mood_props/cute_mobil_01_toy.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_bed_04_rock_basalt_on.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_chair_01_rock_basalt_on.prefab
+- Assets/Models/Prop/furniture/mood_props/cute_carpet_01_colorful.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_chandelier_01_on.prefab
+- Assets/Models/Prop/furniture/mood_props/cute_light_01_firefly.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_table_01_rock_granite_on.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_vase_large_01_a.prefab
+- Assets/Models/Prop/furniture/mood_props/horrible_candlestick_large_02_a_on.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_shelf_01_rock_basalt.prefab
+- Assets/Models/Prop/furniture/mood_props/cute_light_01_firefly_on.prefab
+- Assets/Models/Prop/furniture/mood_props/cute_table_03_colorful.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_bed_04_rock_granite_on.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_shelf_01_rock_granite_on.prefab
+- Assets/Models/Prop/furniture/mood_props/horrible_carpet_01_red.prefab
+- Assets/Models/Prop/furniture/mood_props/cute_chair_01_colorful.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_table_01_rock_basalt.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_table_01_rock_granite.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_chair_01_rock_granite.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_chair_01_rock_basalt.prefab
+- Assets/Models/Prop/furniture/mood_props/horrible_curtain_ceiling_01_bone.prefab
+- Assets/Models/Prop/furniture/mood_props/horrible_rug_01_dirt.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_candlestick_large_01_a.prefab
+- Assets/Models/Prop/furniture/mood_props/horrible_candlestick_large_02_a.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_chandelier_01.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_shelf_01_rock_granite.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_candlestick_large_01_a_on.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_candlestick_small_01_a.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_candlestick_small_01_a_on.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_vase_small_01_a.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_table_01_rock_basalt_on.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_shelf_01_rock_basalt_on.prefab
+- Assets/Models/Prop/furniture/mood_props/horrible_coffin_01_red.prefab
+- Assets/Models/Prop/furniture/mood_props/fiery_chair_01_rock_granite_on.prefab
+- Assets/Models/Prop/furniture/mood_props/flashy_curtain_blind_01_wood.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/prefabs$lightmask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$torchfire01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$cute_light_01_firefly.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glowpoint_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$candlestick_large_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$candlestick_small_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$chandelier_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$vase_large_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$vase_large_01_b.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$mood_props$models$materials$candlestick_small_02_a.mat.bundle

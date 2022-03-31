@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3227055090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c8e7d0e5fff721ae8eb524f88651291
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Material/simpleSmoke3_flow2.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

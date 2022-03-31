@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 4144856354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2da98c2b132f39085cd22e51c235a13b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e439483890b8f232642b261d98a6e89
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6d2e2a1aafae384b9645a7ceee98c53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/etc/watertank_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/parasol_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/parasol_01_w_b.prefab
+- Assets/Models/Prop/furniture_warp/etc/camping_grill_01.prefab
+- Assets/Models/Prop/furniture_warp/etc/flowerbed_02_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/flowerbed_02_w_a.prefab
+- Assets/Models/Prop/furniture_warp/etc/blackboard_message_02_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/blackboard_message_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/flag_01_korea.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_b_leather.prefab
+- Assets/Models/Prop/furniture_warp/etc/flowerbed_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/etc/treadmill_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/whiteboard_message_02_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/parasol_01_w_table.prefab
+- Assets/Models/Prop/furniture_warp/etc/swing_02_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/mini_stage_01.prefab
+- Assets/Models/Prop/furniture_warp/etc/coffeedutch_01_w_entrust.prefab
+- Assets/Models/Prop/furniture_warp/etc/flowerbed_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/parasol_01_w_table_b.prefab
+- Assets/Models/Prop/furniture_warp/etc/flowerbed_03_w_a.prefab
+- Assets/Models/Prop/furniture_warp/etc/garden_light_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/fan_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/swing_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_a.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_b_bag.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_b_rubber.prefab
+- Assets/Models/Prop/furniture_warp/etc/whiteboard_message_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/treadmill_01_w_leather.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_a_rubber.prefab
+- Assets/Models/Prop/furniture_warp/etc/cattower_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/flower_street_light_02_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/garden_bench_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/coffeedutch_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/treadmill_01_w_bag.prefab
+- Assets/Models/Prop/furniture_warp/etc/flowerbed_03_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_b.prefab
+- Assets/Models/Prop/furniture_warp/etc/treadmill_01_w_rubber.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_a_leather.prefab
+- Assets/Models/Prop/furniture_warp/etc/copymachine_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/garden_fence_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/camping_grill_01_w_entrust_pot.prefab
+- Assets/Models/Prop/furniture_warp/etc/cattower_02_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/camping_grill_01_w_entrust_grill.prefab
+- Assets/Models/Prop/furniture_warp/etc/storekart_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/clotheshorse_01_w_a_bag.prefab
+- Assets/Models/Prop/furniture_warp/etc/parasol_02_w_table.prefab
+- Assets/Models/Prop/furniture_warp/etc/flower_street_light_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/garden_bin_01_w.prefab
+- Assets/Models/Prop/furniture_warp/etc/camping_grill_01_w_burning.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3_flow2.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_05.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$parasol_02_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$torchfire01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$drawing_board.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_oil_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$light$model$materials$oil_lantern_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$dry_rack_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$furnace_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kiln_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kiln_01_cap.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$kitchen_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$loom_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$workbench$model$materials$medicine_table_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$blackboard_message_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$camping_grill_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$etc_warp_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$street_light_01_flower.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$street_light_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$glass_light_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$flowerbed_01_w_flower.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$flowerbed_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$flowerbed_02_w_flower.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$flowerbed_03_w_flower.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$garden_light_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$parasol_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$parasol_01_w_b.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$etc$model$materials$whiteboard_message_01_w.mat.bundle

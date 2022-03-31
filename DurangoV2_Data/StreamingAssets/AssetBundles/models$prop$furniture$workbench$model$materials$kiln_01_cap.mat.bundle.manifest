@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2851840774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19c0dd9ce542c857c14cbefbee4168bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/workbench/model/materials/kiln_01_cap.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3966751420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0057f97cf9c3d422b2f1df10a422e7ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58132d93dfecdc47b78b8350da4288fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Head/m_head_seal_01.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

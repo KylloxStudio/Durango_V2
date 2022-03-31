@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1242145552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8b9747c7102414dcdbbc7453a319adc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Material/FX_GlowPoint_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

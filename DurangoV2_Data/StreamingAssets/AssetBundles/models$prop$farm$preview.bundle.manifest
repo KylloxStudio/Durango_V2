@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3665881373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2448ffba0c663224d7a864e4b08b2cae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/farm/preview/preview_sprinkler_03.prefab
+- Assets/Models/Prop/farm/preview/preview_farm_tile_02_mud.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_01.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_05.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_05_liquid.prefab
+- Assets/Models/Prop/farm/preview/preview_farm_tile_01_mud.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_03_liquid.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_04.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_04_liquid.prefab
+- Assets/Models/Prop/farm/preview/preview_farm_tile_01.prefab
+- Assets/Models/Prop/farm/preview/preview_farm_tile_02.prefab
+- Assets/Models/Prop/farm/preview/preview_sprinkler_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$preview_shovel$model$materials$preview.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_01_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$farm$model$materials$sprinkler_04.mat.bundle

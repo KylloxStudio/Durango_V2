@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3355575832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04c5565cc560e11f580a26e215343829
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 531d5c83634e3d7474a87ede91f1d463
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Cliff/Grassland/cliff_grassland_a.prefab
+- Assets/Models/Cliff/Grassland/cliff_grassland_b.prefab
+- Assets/Models/Cliff/Grassland/cliff_grassland_c.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$cliff$grassland$materials$cliff_grassland_a.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$cliff$grassland$materials$cliff_grassland_grass.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$cliff$grassland$materials$cliff_grassland_shadow.mat.bundle

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 659965312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27e56cdca80766f087d20b967ec63c58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf3f348e2267d190e6df40cbb42919b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/decoration/poster_03.prefab
+- Assets/Models/Prop/furniture/decoration/bonedecoration_01_ivory.prefab
+- Assets/Models/Prop/furniture/decoration/frame_01_vertical_wood.prefab
+- Assets/Models/Prop/furniture/decoration/frame_01_square_bone.prefab
+- Assets/Models/Prop/furniture/decoration/bonedecoration_01_horn.prefab
+- Assets/Models/Prop/furniture/decoration/frame_01_wide_bone.prefab
+- Assets/Models/Prop/furniture/decoration/bonedecoration_01_head_b.prefab
+- Assets/Models/Prop/furniture/decoration/frame_01_wide_wood.prefab
+- Assets/Models/Prop/furniture/decoration/bonedecoration_01_head_a.prefab
+- Assets/Models/Prop/furniture/decoration/poster_02.prefab
+- Assets/Models/Prop/furniture/decoration/frame_01_square_wood.prefab
+- Assets/Models/Prop/furniture/decoration/frame_01_vertical_bone.prefab
+- Assets/Models/Prop/furniture/decoration/poster_x.prefab
+- Assets/Models/Prop/furniture/decoration/poster_01.prefab
+- Assets/Models/Prop/furniture/decoration/poster_so.prefab
+- Assets/Models/Prop/furniture/decoration/poster_co.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$etc$model$materials$drawing_board.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$decoration$model$materials$bonedecoration_set_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$decoration$model$materials$frame_set_01_bone.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture$decoration$model$materials$frame_set_01_wood.mat.bundle

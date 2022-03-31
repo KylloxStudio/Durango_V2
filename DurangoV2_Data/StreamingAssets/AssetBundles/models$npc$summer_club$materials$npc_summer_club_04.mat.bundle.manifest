@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1715967782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5219e9c739bf29096d2f6e2e3402062
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/NPC/summer_club/Materials/NPC_summer_club_04.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

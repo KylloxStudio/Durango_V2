@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1314049957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 564031a7bcd1bc62ab3f52fad5d141b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/farm/model/materials/fertilizer_tool_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

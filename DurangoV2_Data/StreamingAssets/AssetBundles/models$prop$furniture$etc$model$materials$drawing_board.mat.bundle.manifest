@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3858451711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81fcc150b2a462c232bddfc96c6cd961
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2bdabd68c118aabc18c59eaf5951821
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture/etc/model/materials/drawing_board.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3335372146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3acd491295a1f3ace1d5480c1392fdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1b42a64015103e085f05ac3187a751d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a39228d773d21b8408529f3d140deaf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Hair/m_hair_braid_tail_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$f_hair_braid.mat.bundle

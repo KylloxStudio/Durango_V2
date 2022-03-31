@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2006748516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c9b05c63408e1b886e404144fbf5c5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58132d93dfecdc47b78b8350da4288fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Equipment/Melee/tier2x_axe_onehand_metal.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

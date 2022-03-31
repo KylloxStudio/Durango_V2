@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1152473103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ad8ec40c4e4ea869a77e5a9d491169d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f49f05f36a566d50434f7d9f3fb347da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/workbench/worktable_05_w.prefab
+- Assets/Models/Prop/furniture_warp/workbench/worktable_03_w.prefab
+- Assets/Models/Prop/furniture_warp/workbench/worktable_01_w.prefab
+- Assets/Models/Prop/furniture_warp/workbench/worktable_02_w.prefab
+- Assets/Models/Prop/furniture_warp/workbench/worktable_04_w.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$workbench$model$materials$workbench_01_w_set.mat.bundle

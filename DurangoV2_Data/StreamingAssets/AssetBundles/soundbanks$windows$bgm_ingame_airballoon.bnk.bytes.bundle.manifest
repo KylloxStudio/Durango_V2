@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2852746795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03c0eedd0dbda6dd91b78623150a447a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/bgm_ingame_airballoon.bnk.bytes
+Dependencies: []

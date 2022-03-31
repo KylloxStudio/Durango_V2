@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1887650082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 208fd59148b4ba4a0a496ac05a810e60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5a3e3037382dc7e75bc0af7ee806e6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Female/Hair/f_hair_up_bang_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$female$hair$materials$f_hair_lady.mat.bundle

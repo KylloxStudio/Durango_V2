@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2335337500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c60fc615c1abe59934c98d45bd45f4b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/etc/model/materials/glass_light_01.mat
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

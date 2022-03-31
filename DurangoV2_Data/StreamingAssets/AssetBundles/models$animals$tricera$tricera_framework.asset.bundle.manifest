@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3046918702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28915c175cae682fcca43730002ec937
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a159d1946a42d0e067ed357f50811b3b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be8877c4f4ebfa749a1d4bb53f8a1d59, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Animals/Tricera/tricera_framework.asset
+Dependencies: []

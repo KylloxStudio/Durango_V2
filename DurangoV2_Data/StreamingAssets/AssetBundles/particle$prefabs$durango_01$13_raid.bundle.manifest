@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 904439797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92e237c8b2593e4bd6e0f998849610e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c137df3ba20f2f33aef5668298d5049d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_05_tail.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_03_dust_2.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_04_ground_flip.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_06_die.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_03_dust_3.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_02_tail.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_03_dust_3r.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_03_dust_1.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_01_stomp.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_04_ground.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_03_dust.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Raid_ApatoSaurs_03_dust_1r.prefab
+- Assets/Particle/Prefabs/Durango_01/13_Raid/FX_Catapult_Cracked_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$fx_materials$durango_common$fx_common_glow_01_x2.mat.bundle

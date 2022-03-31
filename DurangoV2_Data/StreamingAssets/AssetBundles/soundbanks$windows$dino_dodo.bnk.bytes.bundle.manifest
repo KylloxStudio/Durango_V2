@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 686044664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e5e2c04ff3257417d568da403af87f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/SoundBanks/Windows/dino_dodo.bnk.bytes
+Dependencies: []

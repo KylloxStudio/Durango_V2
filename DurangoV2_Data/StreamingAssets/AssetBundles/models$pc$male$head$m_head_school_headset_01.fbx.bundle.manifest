@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2730024235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1955aebca7df30b2f79b687cee49c95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58132d93dfecdc47b78b8350da4288fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Head/m_head_school_headset_01.FBX
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle

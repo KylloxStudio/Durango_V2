@@ -1,0 +1,449 @@
+ManifestFileVersion: 0
+CRC: 3959205497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 370e883637a618a75dc26ffdf3590ca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b15e8b42e22a9acd6a245b758134f6be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45cd4240fbb595e459bd1213a4cdb123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f1fd660b2d265a45aca71816d70ac6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb5f7f028003a33459ea489d013b1e73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a27f644bbb9d3f4683d6b31abce5ea6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48bb4366398474d4e82e1e857134a209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6c8e397f9a80fb43b19e37a84325854, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba987a9fe26e494586bdc0366adf9be, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Particle/FX_PRG_Leaf_Rustle_01.prefab
+- Assets/Particle/FX_DrinkRiver_01.prefab
+- Assets/Particle/FX_Building_Hit.prefab
+- Assets/Particle/FX_Bush_Whack_01.prefab
+- Assets/Particle/FX_Play_Synth_Finish_02_1.prefab
+- Assets/Particle/FX_Spiral_01.prefab
+- Assets/Particle/FX_bow_Attack_01.prefab
+- Assets/Particle/FX_SpeedLine_01.prefab
+- Assets/Particle/FX_Dust_L_Relative_01.prefab
+- Assets/Particle/FX_Rudolf_Twinkle_01.prefab
+- Assets/Particle/FX_Play_Synth_Finish_01_2.prefab
+- Assets/Particle/FX_Thunder_01.prefab
+- Assets/Particle/FX_Snow_S.prefab
+- Assets/Particle/FX_Targeting_Common_02.prefab
+- Assets/Particle/FX_Dust_K_Wheel_01.prefab
+- Assets/Particle/FX_Prop_Steam_01.prefab
+- Assets/Particle/FX_WaterRipple_standing_River_s.prefab
+- Assets/Particle/FX_Condition_Tired.prefab
+- Assets/Particle/FX_UI_GetProSkill_01.prefab
+- Assets/Particle/FX_SkillUp_01.prefab
+- Assets/Particle/FX_DustWheel_01.prefab
+- Assets/Particle/Wind_L.prefab
+- Assets/Particle/FX_SkillUsed_Area_03.prefab
+- Assets/Particle/FX_Play_Horn_03.prefab
+- Assets/Particle/FX_Prop_Steam_02.prefab
+- Assets/Particle/FX_Play_Synth_03.prefab
+- Assets/Particle/FX_Barehand_AttackStrong_03.prefab
+- Assets/Particle/FX_FireSmoke_01.prefab
+- Assets/Particle/Rock_Crash_01.prefab
+- Assets/Particle/FX_Condition_MentalUp_01.prefab
+- Assets/Particle/FX_WaterRipple_standing_ancora.prefab
+- Assets/Particle/FX_Sword_Swing_V_01.prefab
+- Assets/Particle/FX_SparkWheel_01.prefab
+- Assets/Particle/FX_Decal_Cracked_01.prefab
+- Assets/Particle/FX_WaterParticle_L_02.prefab
+- Assets/Particle/X_WaterParticle_Zdir_01.prefab
+- Assets/Particle/FX_Pet_Production_PaperDust_02.prefab
+- Assets/Particle/FX_WaterRipple_standing_River_01.prefab
+- Assets/Particle/FX_Dust_Impact_XL_01.prefab
+- Assets/Particle/FX_Dust_Wave_02.prefab
+- Assets/Particle/FX_Play_Drum_A.prefab
+- Assets/Particle/CampFire_01.prefab
+- Assets/Particle/FX_Decal_Cracked_Catapult.prefab
+- Assets/Particle/FX_CriticalFlash_Strike_01.prefab
+- Assets/Particle/FX_Nepen_Die_ground.prefab
+- Assets/Particle/FX_Prop_Fly_Dirt_02_low.prefab
+- Assets/Particle/FX_Play_Synth_02_2.prefab
+- Assets/Particle/FX_Play_Synth_Finish_02_2.prefab
+- Assets/Particle/FX_Bubble_01.prefab
+- Assets/Particle/FX_AllosaurusTrail.prefab
+- Assets/Particle/FX_BloodBurst_Bite_01.prefab
+- Assets/Particle/FX_BloodBurst_Stab_M.prefab
+- Assets/Particle/FX_SpeedRain_L_02.prefab
+- Assets/Particle/FX_Condition_Wetting_01.prefab
+- Assets/Particle/FX_Trail_Eye_01.prefab
+- Assets/Particle/FX_Dust_02.prefab
+- Assets/Particle/FX_Prop_WoodCrash_01.prefab
+- Assets/Particle/FX_Leaf_TakeSomeThing_01.prefab
+- Assets/Particle/Rock_Hit_01.prefab
+- Assets/Particle/FX_Decal_Cracked_02.prefab
+- Assets/Particle/FX_TorchFire01_Loop.prefab
+- Assets/Particle/FX_Barehand_AttackStrong_02.prefab
+- Assets/Particle/FX_Play_Drum_A_Finish_01.prefab
+- Assets/Particle/FX_DashSmoke2.prefab
+- Assets/Particle/FX_Cloudshadow.prefab
+- Assets/Particle/FX_WaterRipple_standing_02.prefab
+- Assets/Particle/FX_MiniGameDanceGreat.prefab
+- Assets/Particle/FX_Play_Horn_Finish_03.prefab
+- Assets/Particle/FX_Heart.prefab
+- Assets/Particle/FX_WaterParticle_L_01.prefab
+- Assets/Particle/FX_Spit_02.prefab
+- Assets/Particle/FX_Trail_Claw_01.prefab
+- Assets/Particle/FX_Water_Splash_01.prefab
+- Assets/Particle/FX_Play_Horn_Finish_01.prefab
+- Assets/Particle/FX_FootStep_Volcanic_01.prefab
+- Assets/Particle/FX_SoundWaveDust_01.prefab
+- Assets/Particle/FX_MoistureUp_01.prefab
+- Assets/Particle/FX_Spit_01.prefab
+- Assets/Particle/FX_Throwup_Ground.prefab
+- Assets/Particle/FX_Prop_Mineral_Twinkle_01.prefab
+- Assets/Particle/FX_Dust_ShieldSet_01.prefab
+- Assets/Particle/FX_Condition_HealthUp_01.prefab
+- Assets/Particle/FX_Lance_Attack_01.prefab
+- Assets/Particle/FX_Play_Guitar_C_Dust_01_2.prefab
+- Assets/Particle/FX_Dust_05.prefab
+- Assets/Particle/FX_CriticalFlash_Stab_M.prefab
+- Assets/Particle/FX_Play_Guitar_Finish_03.prefab
+- Assets/Particle/FX_Pet_Production_PaperDust_01.prefab
+- Assets/Particle/FX_Rain_M.prefab
+- Assets/Particle/FX_Punchmachine_Hit_01.prefab
+- Assets/Particle/FX_Sword_Swing_01.prefab
+- Assets/Particle/FX_BloodBurst_Slash_01.prefab
+- Assets/Particle/FX_SkillActivated_Icon_02.prefab
+- Assets/Particle/FX_StaminaUp_01.prefab
+- Assets/Particle/FX_Targeting_Common_01.prefab
+- Assets/Particle/FX_Barehand_AttackStrong_01.prefab
+- Assets/Particle/FX_WaterRipple_standing_01.prefab
+- Assets/Particle/FX_Prop_Dynamic_01.prefab
+- Assets/Particle/FX_prologue_gunflash_01.prefab
+- Assets/Particle/FX_BloodBurst_ChainSaw_01.prefab
+- Assets/Particle/FX_Bike_Light_01.prefab
+- Assets/Particle/FX_Prop_Twinkle_01.prefab
+- Assets/Particle/FX_Prop_Tree_Fallground_01.prefab
+- Assets/Particle/FX_Recall_01.prefab
+- Assets/Particle/FX_Craft_01.prefab
+- Assets/Particle/FX_Throwup.prefab
+- Assets/Particle/FX_CrossCounter.prefab
+- Assets/Particle/FX_RainScroll_01.prefab
+- Assets/Particle/FX_Play_Guitar_C_02_1.prefab
+- Assets/Particle/FX_Equip_Twinkle.prefab
+- Assets/Particle/FX_WindowCrash_02.prefab
+- Assets/Particle/FX_WaterSplat_01.prefab
+- Assets/Particle/FX_Stunned_01.prefab
+- Assets/Particle/FX_Play_Horn_01.prefab
+- Assets/Particle/FX_ChainSawBlade_01.prefab
+- Assets/Particle/FX_SuperSonic_01.prefab
+- Assets/Particle/FX_Login_Shield.prefab
+- Assets/Particle/FX_WaterParticle_01.prefab
+- Assets/Particle/FX_WaterParticle_L_03.prefab
+- Assets/Particle/FX_BulbSparkArea_01.prefab
+- Assets/Particle/FX_Prop_Mineral_01_loop.prefab
+- Assets/Particle/FX_Leaf_Rustle_02.prefab
+- Assets/Particle/FX_Sword_Swing_02.prefab
+- Assets/Particle/FX_Dust_S_01.prefab
+- Assets/Particle/FX_BloodBurst_Stab_S.prefab
+- Assets/Particle/FX_Prop_Mineral_01.prefab
+- Assets/Particle/FX_Explosion_Grenade_01.prefab
+- Assets/Particle/FX_Ash_L.prefab
+- Assets/Particle/FX_Dust_08.prefab
+- Assets/Particle/FX_doggy_beacon_Voicelight_01.prefab
+- Assets/Particle/FX_CPR_True_02.prefab
+- Assets/Particle/FX_Eat_Blood_01.prefab
+- Assets/Particle/FX_SoundWave_01.prefab
+- Assets/Particle/FX_Bow_Attack_Shoot.prefab
+- Assets/Particle/FX_LD_Water_M_01.prefab
+- Assets/Particle/FX_Nepen_Die.prefab
+- Assets/Particle/FX_Found_POI_01.prefab
+- Assets/Particle/FX_PRG_LeafnGrass_01.prefab
+- Assets/Particle/FX_Building_Crash.prefab
+- Assets/Particle/FX_Barehand_Attack_Kick_A_Dust_03.prefab
+- Assets/Particle/FX_Smoke_S_01.prefab
+- Assets/Particle/FX_DrinkRiver_02.prefab
+- Assets/Particle/FX_Dust_L_01.prefab
+- Assets/Particle/FX_RainSplash_PRG_01.prefab
+- Assets/Particle/FX_zzz_01_ancora.prefab
+- Assets/Particle/FX_Lance_Attack_Large_01.prefab
+- Assets/Particle/FX_WaterRipple_Moving_02.prefab
+- Assets/Particle/FX_Action_Lance_Attack_Deep_01.prefab
+- Assets/Particle/FX_Dust_K_MotorCylcle_Splash_01.prefab
+- Assets/Particle/FX_SparkWheel_03.prefab
+- Assets/Particle/FX_WaterRipple_Drink_01.prefab
+- Assets/Particle/FX_Estate_Destroy.prefab
+- Assets/Particle/FX_BloodBurst_Eat_L_01.prefab
+- Assets/Particle/FX_Dust_K_Wheel_02_S.prefab
+- Assets/Particle/FX_Prop_Pteranodon_01.prefab
+- Assets/Particle/FX_Dust_03.prefab
+- Assets/Particle/FX_Eat_01.prefab
+- Assets/Particle/FX_DashSmoke1.prefab
+- Assets/Particle/FX_Snow_M.prefab
+- Assets/Particle/FX_Angry_L.prefab
+- Assets/Particle/FX_MiniGameDanceNormal.prefab
+- Assets/Particle/FX_prologue_FloorBlood_01.prefab
+- Assets/Particle/FX_Provocation_01.prefab
+- Assets/Particle/FX_Flash_Parried_01.prefab
+- Assets/Particle/FX_BloodBurst_Claw_01.prefab
+- Assets/Particle/FX_QuadEffectTEST_01.prefab
+- Assets/Particle/FX_Cone_Light_round_01.prefab
+- Assets/Particle/FX_Play_Guitar_C_01_1.prefab
+- Assets/Particle/FX_SkillUsed_Area_02.prefab
+- Assets/Particle/FX_WaterRipple_Moving_01.prefab
+- Assets/Particle/FX_RainScroll_M_01.prefab
+- Assets/Particle/FX_Trail_BikeGlow_01.prefab
+- Assets/Particle/FX_TargetCheck_Common_01.prefab
+- Assets/Particle/FX_Barehand_Attack_Kick_A_Dust_01.prefab
+- Assets/Particle/FX_UI_GetSkill_01.prefab
+- Assets/Particle/FX_Smoke_Cook_01.prefab
+- Assets/Particle/FX_WindowCrash_01.prefab
+- Assets/Particle/FX_Barrier_01.prefab
+- Assets/Particle/FX_FootStep_Mud_01.prefab
+- Assets/Particle/FX_WaterRipple_Moving_03.prefab
+- Assets/Particle/FX_Snow_L.prefab
+- Assets/Particle/FX_Rush_S_01.prefab
+- Assets/Particle/FX_Play_Synth_01_1.prefab
+- Assets/Particle/FX_Trail_Eye_02.prefab
+- Assets/Particle/FX_Found_Warphole_01.prefab
+- Assets/Particle/FX_Water_fog_poison.prefab
+- Assets/Particle/FX_SpeedRain_L.prefab
+- Assets/Particle/FX_Prop_Fly_01.prefab
+- Assets/Particle/FX_Play_Horn_02.prefab
+- Assets/Particle/FX_WaterParticle_03.prefab
+- Assets/Particle/FX_SkillUsed_Slash_01.prefab
+- Assets/Particle/FX_Nepen_Die_S.prefab
+- Assets/Particle/FX_BloomGlow_01.prefab
+- Assets/Particle/FX_SkillActivated_Common_02.prefab
+- Assets/Particle/FX_Attack_Penetration_01.prefab
+- Assets/Particle/FX_PRG_Grass_Rustle_01.prefab
+- Assets/Particle/FX_Condition_Death_01.prefab
+- Assets/Particle/FX_Play_Guitar_Finish_01.prefab
+- Assets/Particle/FX_Dust_K_MotorCylcle_01.prefab
+- Assets/Particle/FX_ApatoSaurusTrail_tail.prefab
+- Assets/Particle/FX_Water_fog.prefab
+- Assets/Particle/FX_Warp_01.prefab
+- Assets/Particle/FX_Sword_Swing_45R_01.prefab
+- Assets/Particle/FX_CriticalFlash_Stab_S.prefab
+- Assets/Particle/FX_WaterRipple_Moving_04.prefab
+- Assets/Particle/FX_CapsulateArtifact.prefab
+- Assets/Particle/FX_BloodBurst_Bare_01.prefab
+- Assets/Particle/FX_LD_Water_L_01.prefab
+- Assets/Particle/FX_Rain_L.prefab
+- Assets/Particle/FX_Condition_Clean_02.prefab
+- Assets/Particle/FX_Prop_Fly_Dirt_01.prefab
+- Assets/Particle/FX_prologue_WindowBlood_01.prefab
+- Assets/Particle/FX_Glow_Eye_01.prefab
+- Assets/Particle/FX_Water_Splash_02.prefab
+- Assets/Particle/FX_Spit_03.prefab
+- Assets/Particle/FX_BloodBurst_Strike_01.prefab
+- Assets/Particle/FX_Landing_S_01.prefab
+- Assets/Particle/FX_CriticalFlash_Slash_01.prefab
+- Assets/Particle/FX_Dust_07.prefab
+- Assets/Particle/FX_Play_Synth_02_1.prefab
+- Assets/Particle/FX_Leaf_Rustle_01.prefab
+- Assets/Particle/FX_Sling_Attack_Strong_01.prefab
+- Assets/Particle/FX_Connected_Home_01.prefab
+- Assets/Particle/FX_Watermelon_hit_01.prefab
+- Assets/Particle/FX_Warp_Human_In.prefab
+- Assets/Particle/FX_LD_Snow_L_01.prefab
+- Assets/Particle/FX_Play_Guitar_D_03.prefab
+- Assets/Particle/FX_FootStep_Water_01.prefab
+- Assets/Particle/FX_Play_Guitar_C_02_2.prefab
+- Assets/Particle/FX_Lance_Attack_Large_02.prefab
+- Assets/Particle/FX_MiniGameDanceGood.prefab
+- Assets/Particle/FX_Condition_Hot_01.prefab
+- Assets/Particle/FX_Vignetting_01.prefab
+- Assets/Particle/FX_Attack_Spit_01.prefab
+- Assets/Particle/FX_Prop_Bug_01.prefab
+- Assets/Particle/FX_WaterRipple_Standing_03.prefab
+- Assets/Particle/FX_Sword_Swing_45L_01.prefab
+- Assets/Particle/FX_Prop_Totem_01.prefab
+- Assets/Particle/FX_Dust_K_MotorCylcle_5s_01.prefab
+- Assets/Particle/Shovel_01.prefab
+- Assets/Particle/FX_ChainSawBladeGlow_01.prefab
+- Assets/Particle/FX_Sleeping_02.prefab
+- Assets/Particle/FX_Decal_Cracked_S_01.prefab
+- Assets/Particle/FX_RainScroll_L_01.prefab
+- Assets/Particle/FX_Play_Drum_A_Finish_03.prefab
+- Assets/Particle/FX_zzz_01.prefab
+- Assets/Particle/FX_Trail_Dust_02.prefab
+- Assets/Particle/FX_SparkWheel_02.prefab
+- Assets/Particle/FX_volcanic_Blast_01.prefab
+- Assets/Particle/FX_Play_Horn_Finish_02.prefab
+- Assets/Particle/CampingCar_spark_01.prefab
+- Assets/Particle/FX_ContactShdow_01.prefab
+- Assets/Particle/FX_DustWheel_02.prefab
+- Assets/Particle/FX_Blocking_01.prefab
+- Assets/Particle/FX_Condition_Clean.prefab
+- Assets/Particle/FX_Warp_Hole_01.prefab
+- Assets/Particle/FX_Craft_Firesteel.prefab
+- Assets/Particle/FX_Attack_Spit_S_01.prefab
+- Assets/Particle/FX_Dust_Tree_01.prefab
+- Assets/Particle/FX_Spiral_02.prefab
+- Assets/Particle/FX_UI_Identify_01.prefab
+- Assets/Particle/FX_SkillActivated_Icon_01.prefab
+- Assets/Particle/FX_DustWheel_03.prefab
+- Assets/Particle/FX_Barehand_Attack_TriplePunch_01.prefab
+- Assets/Particle/FX_Craft_02.prefab
+- Assets/Particle/FX_Water_fog_02.prefab
+- Assets/Particle/FX_Prop_Fish_01.prefab
+- Assets/Particle/FX_Dust_K_Wheel_01_S.prefab
+- Assets/Particle/FX_Play_Guitar_Finish_02_2.prefab
+- Assets/Particle/FX_Condition_Bleeding_01.prefab
+- Assets/Particle/FX_Barehand_Attack_Kick_A.prefab
+- Assets/Particle/FX_Angry_M.prefab
+- Assets/Particle/FX_BloodBurst_Stab_SS.prefab
+- Assets/Particle/FX_Ash_L_HQ.prefab
+- Assets/Particle/FX_Water_Splash_03.prefab
+- Assets/Particle/FX_Smoke_Engine_01.prefab
+- Assets/Particle/FX_WaterParticle_M_01.prefab
+- Assets/Particle/FX_Play_Drum_A_Finish_02.prefab
+- Assets/Particle/FX_volcanic_Blast_02.prefab
+- Assets/Particle/FX_Sleeping_L_01.prefab
+- Assets/Particle/FX_Entrust_Prop_Finish.prefab
+- Assets/Particle/FX_LD_Snow_M_01.prefab
+- Assets/Particle/FX_Dust_K_Wheel_02.prefab
+- Assets/Particle/FX_SkillActivated_Common_01.prefab
+- Assets/Particle/FX_DrinkBlop_01.prefab
+- Assets/Particle/FX_Fire_01.prefab
+- Assets/Particle/FX_Play_Synth_01_2.prefab
+- Assets/Particle/FX_Sword_Flare_01.prefab
+- Assets/Particle/FX_Barehand_Attack_TriplePunch_03.prefab
+- Assets/Particle/FX_Sleeping_01.prefab
+- Assets/Particle/FX_Play_Guitar_Finish_Dust_01.prefab
+- Assets/Particle/FX_Dust_M_Relative_01.prefab
+- Assets/Particle/FX_Dust_K_Wheel_03.prefab
+- Assets/Particle/FX_Dust_01.prefab
+- Assets/Particle/FX_Prop_FireFly_01.prefab
+- Assets/Particle/FX_Dust_XL_01.prefab
+- Assets/Particle/FX_Grass_TakeSomeThing_01.prefab
+- Assets/Particle/FX_Cone_Light_01.prefab
+- Assets/Particle/FX_Play_Guitar_D_01.prefab
+- Assets/Particle/FX_Dust_06.prefab
+- Assets/Particle/FX_Play_Guitar_Finish_02_1.prefab
+- Assets/Particle/FX_Entrust_Prop.prefab
+- Assets/Particle/FX_Marking_01.prefab
+- Assets/Particle/FX_BloodBurst_Eat_01.prefab
+- Assets/Particle/FX_WaterRipple_standing_ancora_s.prefab
+- Assets/Particle/FX_WaterParticle_M_02.prefab
+- Assets/Particle/FX_WaterParticle_02.prefab
+- Assets/Particle/FX_Bow_Attack_Charge.prefab
+- Assets/Particle/FX_Play_Guitar_D_Dust_01.prefab
+- Assets/Particle/FX_Rush_S_02.prefab
+- Assets/Particle/Tree_Crash_01.prefab
+- Assets/Particle/FX_Play_Guitar_C_Dust_01_1.prefab
+- Assets/Particle/FX_FootStep_Dust_01.prefab
+- Assets/Particle/FX_BuildingCom_01.prefab
+- Assets/Particle/FX_Play_Synth_Finish_01_1.prefab
+- Assets/Particle/FX_Nepen_Die_ground_S.prefab
+- Assets/Particle/FX_DrinkRiver_03.prefab
+- Assets/Particle/FX_Sling_Attack_Strong_02.prefab
+- Assets/Particle/FX_EyE_Glow_L_01.prefab
+- Assets/Particle/FX_Dust_L_02.prefab
+- Assets/Particle/FX_Condition_Cold_Smoke_01.prefab
+- Assets/Particle/FX_ApatoSaurusTrail.prefab
+- Assets/Particle/FX_SkillActivated_Common_01_Large.prefab
+- Assets/Particle/Snow_S.prefab
+- Assets/Particle/FX_SmokeCircle_01.prefab
+- Assets/Particle/FX_Warp_Human_Out.prefab
+- Assets/Particle/FX_Spiral_Dash_01.prefab
+- Assets/Particle/FX_Condition_Poison_01.prefab
+- Assets/Particle/FX_Rain_S.prefab
+- Assets/Particle/FX_Dust_04.prefab
+- Assets/Particle/FX_Lance_Attack_02.prefab
+- Assets/Particle/Snow_L.prefab
+- Assets/Particle/FX_Condition_burns_01.prefab
+- Assets/Particle/FX_Play_Guitar_D_02.prefab
+- Assets/Particle/FX_SkillUsed_Slash_V_01.prefab
+- Assets/Particle/FX_PRG_Grass_Rustle_02.prefab
+- Assets/Particle/FX_Declare_Land.prefab
+- Assets/Particle/FX_Dust_Wave_01.prefab
+- Assets/Particle/FX_CPR_True_01.prefab
+- Assets/Particle/FX_Play_Guitar_C_01_2.prefab
+- Assets/Particle/FX_Prop_Pteranodon_02.prefab
+- Assets/Particle/FX_FootStep_Forest_01.prefab
+- Assets/Particle/FX_Dust_S_02.prefab
+- Assets/Particle/FX_WaterSplat_02.prefab
+- Assets/Particle/FX_Barehand_Attack_TriplePunch_02.prefab
+- Assets/Particle/FX_Dust_L_Relative_01_Gray.prefab
+- Assets/Particle/FX_Barehand_Attack_Kick_A_Dust_02.prefab
+- Assets/Particle/FX_fog_s.prefab
+- Assets/Particle/FX_FootStep_Snow_01.prefab
+- Assets/Particle/FX_Turret_bow_01.prefab
+- Assets/Particle/FX_Prop_warphole_tuner_01.prefab
+- Assets/Particle/FX_Trail_Dust_01.prefab
+- Assets/Particle/FX_Sign_bomb_01.prefab
+- Assets/Particle/FX_SkillUsed_Area_01.prefab
+- Assets/Particle/FX_UI_TouchPoint_01.prefab
+- Assets/Particle/LeafParticle.prefab
+- Assets/Particle/FX_SwordTrailTest.prefab
+- Assets/Particle/FX_Watermelon_crush_01.prefab
+- Assets/Particle/FX_spark_PickAXE_01.prefab
+- Assets/Particle/FX_Smoke_Fertilizer_01.prefab
+- Assets/Particle/FX_Barrier_Area_01.prefab
+- Assets/Particle/FX_Play_Guitar_Finish_Dust_02.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_spark_particle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_flare_03.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_waterparticle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_watersplat_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_ripple_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$m_flare_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_bloodsplaater_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$campfire_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glow_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$torchfire01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_twinkle_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fire_smoke_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_flare_04.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$simplesmoke3add.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$dust_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_spark_particle_01_ztest.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_glowpoint_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/particle$material$fx_raindropsplashmulti_01.mat.bundle

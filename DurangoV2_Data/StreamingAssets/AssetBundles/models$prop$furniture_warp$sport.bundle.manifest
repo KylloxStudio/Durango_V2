@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 1108967279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09b02fa60a1962757ae5ea4049d2dff1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d45b05720cb3b04951e23108a965e186
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6d2e2a1aafae384b9645a7ceee98c53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9caf193115d55e40808b5f07d8dd174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c235fa2e703b04eac83078f6479977, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fb073c9078a58459fea99877df8365, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/furniture_warp/sport/trampoline_01_w_orange.prefab
+- Assets/Models/Prop/furniture_warp/sport/footballpost_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/hurdle_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/vaultingbox_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/tabletennis_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/basketballpost_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/icehockeypost_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/trampoline_01_w.prefab
+- Assets/Models/Prop/furniture_warp/sport/handballpost_01_w.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_02.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$sport$model$materials$footballpost_01_w.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$furniture_warp$sport$model$materials$post_shadow_01.mat.bundle

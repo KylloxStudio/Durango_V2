@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3842691453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9ee3b36960ecf260e7aad05b3721016
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33734800faa92f01b472cf7dfdb493d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Prop/facility/shelter/shelter_moss_01.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_02_indoor_mask.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_02_back.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_02_floor.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_03_back.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_03_floor.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_03_front.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_02_night_light.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_01_night_light.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_03_night_light.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_03_indoor_mask.prefab
+- Assets/Models/Prop/facility/shelter/shelter_moss_02_front.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/preload.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_mask.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$module$_fbx$materials$module_indoor_ao.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$system$ao$model$materials$prop_shadow_ao_01_onprop.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$cage$model$materials$cage_01_site.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$cage$model$materials$cage_01.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$clan_house$model$materials$clan_house_01_outlight.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$shelter$model$materials$shelter_moss_02_roof.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$shelter$model$materials$shelter_moss_02_wall.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$shelter$model$materials$shelter_moss_02_wood.mat.bundle
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$prop$facility$shelter$model$materials$shelter_moss_02_floor.mat.bundle

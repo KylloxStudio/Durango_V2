@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1034708392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e9ea1ded33a93da39c4bcddd99eadcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5a3e3037382dc7e75bc0af7ee806e6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/PC/Male/Hair/m_hair_bear_01.prefab
+Dependencies:
+- /Volumes/Seagate BUP BK Media/live/windows/Assets/StreamingAssets/AssetBundles/models$pc$male$hair$materials$m_hair_base-texture1.mat.bundle
