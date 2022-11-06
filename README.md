@@ -12,7 +12,7 @@ This is Kyllox's New Durango. I'm developing Durango as a solo play game. **Main
 WebSite: [_https://durango.kyllox.tech_](https://durango.kyllox.tech)
 
 _**See below for more features.**_
-![building](https://durango.kyllox.studio/images/result-picture-04.png)
-![pet](https://durango.kyllox.studio/images/result-picture-05.png)
-![combat](https://durango.kyllox.studio/images/result-picture-06.png)
-![sail](https://durango.kyllox.studio/images/sail-test.jpg)
+![building](https://durango.kyllox.tech/images/result-picture-04.png)
+![pet](https://durango.kyllox.tech/images/result-picture-05.png)
+![combat](https://durango.kyllox.tech/images/result-picture-06.png)
+![sail](https://durango.kyllox.tech/images/sail-test.jpg)
