@@ -9,7 +9,7 @@ This is Kyllox's New Durango. I'm developing Durango as a solo play game. **Main
 - _Automatic Update_
 - _And Mores..._
 
-WebSite: [_https://durango.kyllox.studio_](https://durango.kyllox.studio)
+WebSite: [_https://durango.kyllox.tech_](https://durango.kyllox.tech)
 
 _**See below for more features.**_
 ![building](https://durango.kyllox.studio/images/result-picture-04.png)
