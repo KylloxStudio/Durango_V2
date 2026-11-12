@@ -1,18 +1,10 @@
-# Kyllox's Durango_V2 - [Alpha](https://github.com/KylloxStudio/Durango_V2/releases)
+# Durango V2
+> 야생의 땅, 다시 열리다.
 
-This is Kyllox's New Durango. I'm developing Durango as a solo play game. **Main Functions:**
-- _Weather Customizing_
-- _Building interactions_
-- _Pet functions_
-- _Combat Systems_
-- _Sailing Systems (Developing)_
-- _Automatic Update_
-- _And More..._
+Durango V2는 **NEXON, WHAT! STUDIO**의 게임 **야생의 땅: 듀랑고**를 복원시키는 비공식 비영리 프로젝트입니다. 듀랑고를 다시 만날 수 있도록 클라이언트와 온라인 서버, 웹사이트를 복원·보존하고 있습니다.
 
-WebSite: [_https://durango.kyllox.pe.kr_](https://durango.kyllox.pe.kr)
 
-_**See below for more features.**_
-![building](https://durango.kyllox.pe.kr/images/result-picture-04.png)
-![pet](https://durango.kyllox.pe.kr/images/result-picture-05.png)
-![combat](https://durango.kyllox.pe.kr/images/result-picture-06.png)
-![sail](https://durango.kyllox.pe.kr/images/sail-test.jpg)
+## 비영리 프로젝트 및 권리 안내
+Durango V2는 비공식 비영리 프로젝트입니다. 게임 운영 및 개발 과정에서 어떠한 수익도 창출하지 않으며, 광고·후원·유료 판매를 통해 수익을 얻지 않습니다.
+원작 **야생의 땅: 듀랑고**와 관련된 모든 권리는 **NEXON**과 **WHAT! STUDIO**에 있습니다. 원작 게임의 이름, 이미지, 사운드, 아트워크, 상표 및 기타 에셋의 권리는 각 권리자에게 귀속됩니다.
+본 프로젝트는 NEXON 또는 WHAT! STUDIO와 공식적으로 제휴하거나 후원받는 프로젝트가 아닙니다. 저작권자의 요청이 있을 경우 프로젝트와 서비스는 언제든 중단될 수 있으며, 요청이 확인되면 서비스를 즉시 중단합니다.
